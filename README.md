@@ -9,7 +9,8 @@ KPE Archive 진열창 사이트입니다. 01~30편마다 서시와 이야기별 
 
 | 위치 | 내용 |
 | --- | --- |
-| index.html | 진열창 페이지 (틀 하나로 30편 모두 보여줌) |
+| index.html | 진열창 첫 화면 (30편 목록) |
+| vol-01/ … vol-30/ | 권별 페이지. 주소 예: https://paulsb1961-star.github.io/kpe-showcase/vol-06/ (SNS·QR·검색용, 권마다 제목·서시 사진 미리보기) |
 | data/volumes.json | 진열창 권 목록 |
 | data/KPE_VolNN_Showcase.json | 권별 장면의 글·사진·음원 정보 (MCP 서버도 이 파일을 읽음) |
 | data/showcase_data.js | 위 JSON을 한데 모은 파일 (컴퓨터에서 바로 열 때 쓰임) |
@@ -17,7 +18,7 @@ KPE Archive 진열창 사이트입니다. 01~30편마다 서시와 이야기별 
 | audio/ | 서시 미리듣기와 사진 설명 낭독 |
 | llms.txt | AI용 안내 (진열창, MCP 연결 주소, 30편 링크) |
 
-주소 끝에 `#vol-01`처럼 붙이면 그 권이 바로 열립니다. 아무것도 없으면 30편 목록이 나옵니다.
+권별 주소는 `vol-06/`처럼 씁니다. 예전 주소 `#vol-06`도 그대로 열립니다.
 
 ## GitHub에 올리는 순서
 
