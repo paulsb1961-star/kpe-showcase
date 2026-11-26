@@ -28,7 +28,7 @@ KPE Archive 진열창 사이트입니다. 01~30편마다 서시와 이야기별 
 ## 고칠 때
 
 - 문구나 감정 태그를 고치면 `data/KPE_VolNN_Showcase.json`과 `data/showcase_data.js`를 함께 바꿉니다. Claude에게 통합 마스터 최신본을 주시면 둘 다 다시 만들어 드립니다.
-- 구매 링크는 각 JSON의 `buy_link`입니다. 지금은 30편 모두 작가 페이지입니다.
+- 구매 링크는 각 JSON의 `buy_link`입니다. 권별 아마존 킨들 도서 주소(https://www.amazon.com/dp/ASIN)입니다.
 
 ## 원칙
 
