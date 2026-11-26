@@ -1,0 +1,259 @@
+{
+  "series": "KPE Archive",
+  "volume": "18",
+  "title_en": "Where Immortals Once Played",
+  "title_kr": "신선이 노닐던 곳",
+  "place_kr": "선유도",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol18_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V18-P004",
+      "image": "vol18_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Green woods and the Han River, a boat on the water",
+      "alt_text_kr": "초록빛 나무 숲과 한강, 물 위의 배",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Seonyudo Park / 선유도",
+      "year": "2024",
+      "lat": 37.543569,
+      "lng": 126.8997156,
+      "audio": {
+        "file": "KPE_Vol18_Showcase_01_Prelude.mp3",
+        "source": "vol18_03.mp3 (전체)",
+        "seconds": 117.2
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Seonyudo Park."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "선유도를 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Timeless Flow"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "On an island reborn, old walls hold new breath."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Children run, lovers whisper, elders walk in calm steps."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Nothing was erased—nature entered what once stood still."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beginning, present, depth, together."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Moments overlap like water purified yet still flowing."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "When the garden remembers you, your time remains."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "흐르는 시간"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "옛 구조물 위로 자연이 스며든 자리."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "아이의 웃음, 연인의 속삭임, 노부부의 느린 걸음."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "허물지 않고 되살린 공간에서 삶의 순간들이 겹쳐집니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "시작과 현재, 깊이와 함께."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "정화된 물이 흐르듯 삶도 흘러갑니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "정원이 당신을 기억하면 당신의 시간도 그곳에 남습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "All the seasons of life gather here in stillness."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "인생의 모든 계절이 이곳에 모인다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Green woods and the Han River, a boat on the water"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "초록빛 나무 숲과 한강, 물 위의 배"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "여인",
+      "scene_name_en": "Woman",
+      "global_id": "KPE-V18-P008",
+      "image": "vol18_ep01_01_Leaves.jpg",
+      "title_en": "Leaves",
+      "title_kr": "잎새",
+      "caption_short": "Leaves",
+      "alt_text_en": "A leaf on a slender new shoot against a bright, hazy background",
+      "alt_text_kr": "밝고 희미한 배경의 가는 줄기의 새순에 달린 잎사귀",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 5,
+      "place": "Seonyudo Park / 선유도",
+      "year": "2024",
+      "lat": 37.543569,
+      "lng": 126.8997156,
+      "audio": {
+        "file": "KPE_Vol18_Showcase_02_EP01.mp3",
+        "source": "vol18_10.mp3 31.72–50.42초",
+        "seconds": 16.1
+      },
+      "episode_en": "Episode 01 — Woman",
+      "episode_kr": "이야기 01 — 여인"
+    },
+    {
+      "scene": 3,
+      "scene_name": "청춘",
+      "scene_name_en": "Youth",
+      "global_id": "KPE-V18-P015",
+      "image": "vol18_ep02_01_Youth.jpg",
+      "title_en": "Youth",
+      "title_kr": "청춘",
+      "caption_short": "Youth",
+      "alt_text_en": "Two women sharing an umbrella on a green park path",
+      "alt_text_kr": "공원 초록 길에서 우산을 함께 쓴 두 여인",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 12,
+      "place": "Seonyudo Park / 선유도",
+      "year": "2024",
+      "lat": 37.543569,
+      "lng": 126.8997156,
+      "audio": {
+        "file": "KPE_Vol18_Showcase_03_EP02.mp3",
+        "source": "vol18_11.mp3 31.08–46.96초",
+        "seconds": 14.8
+      },
+      "episode_en": "Episode 02 — Youth",
+      "episode_kr": "이야기 02 — 청춘"
+    },
+    {
+      "scene": 4,
+      "scene_name": "아이·노인",
+      "scene_name_en": "Child and the Elder",
+      "global_id": "KPE-V18-P023",
+      "image": "vol18_ep03_01_ChildandNun.jpg",
+      "title_en": "Child and Nun",
+      "title_kr": "아이와 수녀",
+      "caption_short": "Child and Nun",
+      "alt_text_en": "A nun in white crouching beside a crying child",
+      "alt_text_kr": "우는 아이 곁에 쪼그려 앉은 흰옷의 수녀",
+      "emotion_tags": "E04 생동",
+      "route_order": 20,
+      "place": "Seonyudo Park / 선유도",
+      "year": "2024",
+      "lat": 37.543569,
+      "lng": 126.8997156,
+      "audio": {
+        "file": "KPE_Vol18_Showcase_04_EP03.mp3",
+        "source": "vol18_12.mp3 40.40–55.96초",
+        "seconds": 13.9
+      },
+      "episode_en": "Episode 03 — Child and the Elder",
+      "episode_kr": "이야기 03 — 아이·노인"
+    },
+    {
+      "scene": 5,
+      "scene_name": "물결",
+      "scene_name_en": "Ripples",
+      "global_id": "KPE-V18-P031",
+      "image": "vol18_ep04_01_Ripples.jpg",
+      "title_en": "Ripples",
+      "title_kr": "물결",
+      "caption_short": "Ripples",
+      "alt_text_en": "Ripples spreading across the river water",
+      "alt_text_kr": "강 수면에 번지는 잔물결",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 28,
+      "place": "Seonyudo Park / 선유도",
+      "year": "2024",
+      "lat": 37.543569,
+      "lng": 126.8997156,
+      "audio": {
+        "file": "KPE_Vol18_Showcase_05_EP04.mp3",
+        "source": "vol18_13.mp3 32.08–46.02초",
+        "seconds": 13.7
+      },
+      "episode_en": "Episode 04 — Ripples",
+      "episode_kr": "이야기 04 — 물결"
+    }
+  ]
+}

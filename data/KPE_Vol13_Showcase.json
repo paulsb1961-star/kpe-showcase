@@ -1,0 +1,259 @@
+{
+  "series": "KPE Archive",
+  "volume": "13",
+  "title_en": "Lanterns Beneath Spring Blossoms",
+  "title_kr": "봄꽃 아래 연등",
+  "place_kr": "진관사",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol13_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V13-P004",
+      "image": "vol13_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Yellow cornus flowers blooming on a bare branch in early spring",
+      "alt_text_kr": "이른 봄, 앙상한 가지에 핀 노란 산수유 꽃",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Jingwansa Temple / 진관사",
+      "year": "2024",
+      "lat": 37.6383876,
+      "lng": 126.946406,
+      "audio": {
+        "file": "KPE_Vol13_Showcase_01_Prelude.mp3",
+        "source": "vol13_03.mp3 (전체)",
+        "seconds": 115.0
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Jingwansa Temple."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "진관사를 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Mind’s Reflection"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Spring blossoms glow, lanterns sway in bright air."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Yet within beauty, the mind stirs—wanting more, reacting, wandering."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Reflections tremble in temple windows."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Are we seeing the world, or our own mind?"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Lantern, reflection, humility."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beyond the gate, the journey is inward."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "마음의 반영"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "봄꽃과 연등이 밝게 흔들립니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "그 사이 마음은 탐하고, 성내고, 흔들립니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창문에 비친 연등의 반영."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "우리는 세상을 보는 걸까요, 아니면 마음을 보는 걸까요."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연등, 반영, 하심."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "담장을 지나 마음은 안으로 향합니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "When lantern light touches the window, we meet the landscape of our own hearts."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연등의 빛 속에서, 우리는 세상이 아닌 마음을 본다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Yellow cornus flowers blooming on a bare branch in early spring"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이른 봄, 앙상한 가지에 핀 노란 산수유 꽃"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "연등",
+      "scene_name_en": "Lantern",
+      "global_id": "KPE-V13-P008",
+      "image": "vol13_ep01_01_newbuds.jpg",
+      "title_en": "New Buds",
+      "title_kr": "새싹",
+      "caption_short": "New Buds",
+      "alt_text_en": "New growth on a cut branch stump",
+      "alt_text_kr": "잘린 가지 그루터기에 돋은 새순",
+      "emotion_tags": "E04 생동",
+      "route_order": 5,
+      "place": "Jingwansa Temple / 진관사",
+      "year": "2024",
+      "lat": 37.6383876,
+      "lng": 126.946406,
+      "audio": {
+        "file": "KPE_Vol13_Showcase_02_EP01.mp3",
+        "source": "vol13_10.mp3 29.54–44.08초",
+        "seconds": 12.0
+      },
+      "episode_en": "Episode 01 — Lantern",
+      "episode_kr": "이야기 01 — 연등"
+    },
+    {
+      "scene": 3,
+      "scene_name": "반영",
+      "scene_name_en": "Reflection",
+      "global_id": "KPE-V13-P013",
+      "image": "vol13_ep02_01_templewindow1.jpg",
+      "title_en": "Temple Window",
+      "title_kr": "사찰 창문",
+      "caption_short": "Temple Window",
+      "alt_text_en": "A temple hall window reflecting rows of lotus lanterns",
+      "alt_text_kr": "연등이 줄지어 비친 법당 유리창",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 10,
+      "place": "Jingwansa Temple / 진관사",
+      "year": "2024",
+      "lat": 37.6383876,
+      "lng": 126.946406,
+      "audio": {
+        "file": "KPE_Vol13_Showcase_03_EP02.mp3",
+        "source": "vol13_11.mp3 32.08–47.54초",
+        "seconds": 12.9
+      },
+      "episode_en": "Episode 02 — Reflection",
+      "episode_kr": "이야기 02 — 반영"
+    },
+    {
+      "scene": 4,
+      "scene_name": "탐진치",
+      "scene_name_en": "Three Poisons",
+      "global_id": "KPE-V13-P017",
+      "image": "vol13_ep03_01_visitors2.jpg",
+      "title_en": "Visitors 2",
+      "title_kr": "방문객들 2",
+      "caption_short": "Visitors 2",
+      "alt_text_en": "A person photographing beneath the temple lanterns",
+      "alt_text_kr": "연등 아래에서 사진 찍는 사람",
+      "emotion_tags": "E04 생동",
+      "route_order": 14,
+      "place": "Jingwansa Temple / 진관사",
+      "year": "2024",
+      "lat": 37.6383876,
+      "lng": 126.946406,
+      "audio": {
+        "file": "KPE_Vol13_Showcase_04_EP03.mp3",
+        "source": "vol13_12.mp3 31.20–45.54초",
+        "seconds": 13.2
+      },
+      "episode_en": "Episode 03 — Three Poisons",
+      "episode_kr": "이야기 03 — 탐진치"
+    },
+    {
+      "scene": 5,
+      "scene_name": "하심",
+      "scene_name_en": "Humility",
+      "global_id": "KPE-V13-P022",
+      "image": "vol13_ep04_02_rubbershoes1.jpg",
+      "title_en": "Rubber Shoes",
+      "title_kr": "고무신",
+      "caption_short": "Rubber Shoes",
+      "alt_text_en": "A pair of black fur-lined rubber shoes left below a stone step",
+      "alt_text_kr": "돌계단 아래 벗어둔 털 안감 검정 고무신 한 켤레",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 19,
+      "place": "Jingwansa Temple / 진관사",
+      "year": "2024",
+      "lat": 37.6383876,
+      "lng": 126.946406,
+      "audio": {
+        "file": "KPE_Vol13_Showcase_05_EP04.mp3",
+        "source": "vol13_13.mp3 43.12–60.28초",
+        "seconds": 14.6
+      },
+      "episode_en": "Episode 04 — Humility",
+      "episode_kr": "이야기 04 — 하심"
+    }
+  ]
+}

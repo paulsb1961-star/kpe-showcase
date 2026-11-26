@@ -1,0 +1,254 @@
+{
+  "series": "KPE Archive",
+  "volume": "09",
+  "title_en": "Memories of Those Who Left",
+  "title_kr": "떠난 이들의 기억",
+  "place_kr": "한옥마을 II · 제각말",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol09_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V09-P004",
+      "image": "vol09_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A weathered piece of bark with a knot in soft focus",
+      "alt_text_kr": "부드럽게 흐려진 풍화된 나무껍질과 옹이",
+      "emotion_tags": "E02 여운 · E07 사색",
+      "route_order": 1,
+      "place": "Hanok Village II & Jegakmal / 한옥마을 2",
+      "year": "2023",
+      "lat": 37.6389,
+      "lng": 126.9296,
+      "audio": {
+        "file": "KPE_Vol09_Showcase_01_Prelude.mp3",
+        "source": "vol09_03.mp3 (전체)",
+        "seconds": 112.1
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Hanok Village & Jegakmal."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한옥마을과 제각말을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Memories"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A place remains only as a name."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "What once stood—shrine, grave, memory—has faded from sight."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Yet the land continues to hold time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Those who left, those who arrived—their hours overlap in quiet air."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "What disappears does not wholly vanish."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It settles in the unseen layers of place."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "기억"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이름만 남은 자리."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "제각과 묘는 사라지고 기억은 흐려졌지만, 땅은 여전히 시간을 품고 있습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "떠난 이들의 시간과 새로 온 이들의 시간이 고요히 겹칩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "보이지 않는 것들은 완전히 사라지지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "장소의 깊은 곳에 여전히 머물고 있습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Over the memories of those who departed, a new current flows."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "산 자와 죽은 자 사이, 시간이 다시 흐른다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A weathered piece of bark with a knot in soft focus"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "부드럽게 흐려진 풍화된 나무껍질과 옹이"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "과거",
+      "scene_name_en": "The Past",
+      "global_id": "KPE-V09-P008",
+      "image": "vol09_ep01_01_past.jpg",
+      "title_en": "Past",
+      "title_kr": "과거",
+      "caption_short": "The Past",
+      "alt_text_en": "A dark inscribed stele among autumn foliage",
+      "alt_text_kr": "단풍 사이 글씨가 새겨진 어두운 비석",
+      "emotion_tags": "E05 정취 · E07 사색",
+      "route_order": 5,
+      "place": "Hanok Village II & Jegakmal / 한옥마을 2",
+      "year": "2023",
+      "lat": 37.6389,
+      "lng": 126.9296,
+      "audio": {
+        "file": "KPE_Vol09_Showcase_02_EP01.mp3",
+        "source": "vol09_10.mp3 42.52–58.30초",
+        "seconds": 13.2
+      },
+      "episode_en": "Episode 01 — The Past",
+      "episode_kr": "이야기 01 — 과거"
+    },
+    {
+      "scene": 3,
+      "scene_name": "현재",
+      "scene_name_en": "The Present",
+      "global_id": "KPE-V09-P013",
+      "image": "vol09_ep02_01_present.jpg",
+      "title_en": "Present",
+      "title_kr": "현재",
+      "caption_short": "The Present",
+      "alt_text_en": "Bare branches against a dusk sky with a distant power pylon",
+      "alt_text_kr": "저물녘 하늘의 앙상한 가지와 멀리 선 송전탑",
+      "emotion_tags": "E05 정취 · E07 사색",
+      "route_order": 10,
+      "place": "Hanok Village II & Jegakmal / 한옥마을 2",
+      "year": "2023",
+      "lat": 37.6389,
+      "lng": 126.9296,
+      "audio": {
+        "file": "KPE_Vol09_Showcase_03_EP02.mp3",
+        "source": "vol09_11.mp3 31.96–50.00초",
+        "seconds": 15.4
+      },
+      "episode_en": "Episode 02 — The Present",
+      "episode_kr": "이야기 02 — 현재"
+    },
+    {
+      "scene": 4,
+      "scene_name": "묘지",
+      "scene_name_en": "The Graves",
+      "global_id": "KPE-V09-P018",
+      "image": "vol09_ep03_01_graves.jpg",
+      "title_en": "Graves",
+      "title_kr": "묘지",
+      "caption_short": "The Graves",
+      "alt_text_en": "Bare branches against a cloudy sky with a crescent moon",
+      "alt_text_kr": "초승달 뜬 흐린 하늘의 앙상한 가지",
+      "emotion_tags": "E05 정취 · E07 사색",
+      "route_order": 15,
+      "place": "Hanok Village II & Jegakmal / 한옥마을 2",
+      "year": "2023",
+      "lat": 37.6389,
+      "lng": 126.9296,
+      "audio": {
+        "file": "KPE_Vol09_Showcase_04_EP03.mp3",
+        "source": "vol09_12.mp3 36.42–52.58초",
+        "seconds": 14.6
+      },
+      "episode_en": "Episode 03 — The Graves",
+      "episode_kr": "이야기 03 — 묘지"
+    },
+    {
+      "scene": 5,
+      "scene_name": "마을",
+      "scene_name_en": "The Village",
+      "global_id": "KPE-V09-P024",
+      "image": "vol09_ep04_01_village.jpg",
+      "title_en": "Village",
+      "title_kr": "마을",
+      "caption_short": "The Village",
+      "alt_text_en": "A person in a red coat walking a night street amid blurred lights",
+      "alt_text_kr": "번진 불빛 속 밤거리를 걷는 사람",
+      "emotion_tags": "E04 생동",
+      "route_order": 21,
+      "place": "Hanok Village II & Jegakmal / 한옥마을 2",
+      "year": "2023",
+      "lat": 37.6389,
+      "lng": 126.9296,
+      "audio": {
+        "file": "KPE_Vol09_Showcase_05_EP04.mp3",
+        "source": "vol09_13.mp3 38.88–55.36초",
+        "seconds": 14.5
+      },
+      "episode_en": "Episode 04 — The Village",
+      "episode_kr": "이야기 04 — 마을"
+    }
+  ]
+}

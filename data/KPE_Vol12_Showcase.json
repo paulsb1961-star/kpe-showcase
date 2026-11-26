@@ -1,0 +1,254 @@
+{
+  "series": "KPE Archive",
+  "volume": "12",
+  "title_en": "Steps Moving Slowly",
+  "title_kr": "느린 걸음 오가던",
+  "place_kr": "절길 · 공원길",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol12_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V12-P004",
+      "image": "vol12_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A metal bar and dried grasses seen through a green net fence",
+      "alt_text_kr": "초록 그물망 너머로 보이는 철 막대와 마른 풀",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 1,
+      "place": "Bulgwangsa · Bulgwang Park / 불광사 길·불광근린공원 길",
+      "year": "2023",
+      "lat": 37.6196941,
+      "lng": 126.9301116,
+      "audio": {
+        "file": "KPE_Vol12_Showcase_01_Prelude.mp3",
+        "source": "vol12_03.mp3 (전체)",
+        "seconds": 120.4
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Temple Path · Neighborhood Park."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "절길과 공원길을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Shifting Time"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "From wide sight to a narrow gap—the shift reveals what had long been unseen."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Near and far dissolve into one horizon."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Fruits of unnoticed days quietly appear."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Above ground, slow footsteps wander; below, trains flash like light."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Gap, fruit, library, forest path."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Time moves in both slowness and speed."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "시선의 전환"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "넓게 보다가 좁은 틈으로 바라볼 때, 숨겨졌던 것들이 드러납니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "가까움과 멂이 하나로 이어지고, 지나온 시간의 열매가 비로소 보입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "공원 위로는 느린 걸음이 오가고, 그 아래로는 빛처럼 기차가 스쳐 갑니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "틈새, 열매, 도서관, 오솔길."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "시간은 느림과 빠름을 함께 품습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Through the narrowest gap, distance and nearness become one."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "좁은 틈, 가까움과 멂이 하나가 된다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A metal bar and dried grasses seen through a green net fence"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "초록 그물망 너머로 보이는 철 막대와 마른 풀"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "틈새",
+      "scene_name_en": "Gap",
+      "global_id": "KPE-V12-P008",
+      "image": "vol12_ep01_01_Gap.jpg",
+      "title_en": "Gap",
+      "title_kr": "틈새",
+      "caption_short": "Gap",
+      "alt_text_en": "Sunlight breaking through dark clouds over silhouetted hills",
+      "alt_text_kr": "실루엣진 산 위로 먹구름을 뚫고 새어드는 햇빛",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Bulgwangsa · Bulgwang Park / 불광사 길·불광근린공원 길",
+      "year": "2023",
+      "lat": 37.6196941,
+      "lng": 126.9301116,
+      "audio": {
+        "file": "KPE_Vol12_Showcase_02_EP01.mp3",
+        "source": "vol12_10.mp3 27.66–44.44초",
+        "seconds": 14.1
+      },
+      "episode_en": "Episode 01 — Gap",
+      "episode_kr": "이야기 01 — 틈새"
+    },
+    {
+      "scene": 3,
+      "scene_name": "열매",
+      "scene_name_en": "Fruit",
+      "global_id": "KPE-V12-P013",
+      "image": "vol12_ep02_01_fruits.jpg",
+      "title_en": "Fruits",
+      "title_kr": "열매",
+      "caption_short": "Fruits",
+      "alt_text_en": "Dried grasses and seeds tangled on a metal bar, misty mountains beyond",
+      "alt_text_kr": "안개 낀 산을 뒤로 둔 철 막대에 엉킨 마른 풀과 열매",
+      "emotion_tags": "E07 사색",
+      "route_order": 10,
+      "place": "Bulgwangsa · Bulgwang Park / 불광사 길·불광근린공원 길",
+      "year": "2023",
+      "lat": 37.6196941,
+      "lng": 126.9301116,
+      "audio": {
+        "file": "KPE_Vol12_Showcase_03_EP02.mp3",
+        "source": "vol12_11.mp3 28.12–47.56초",
+        "seconds": 16.8
+      },
+      "episode_en": "Episode 02 — Fruit",
+      "episode_kr": "이야기 02 — 열매"
+    },
+    {
+      "scene": 4,
+      "scene_name": "도서관",
+      "scene_name_en": "Library",
+      "global_id": "KPE-V12-P017",
+      "image": "vol12_ep03_01_Library.jpg",
+      "title_en": "Library",
+      "title_kr": "도서관",
+      "caption_short": "Library",
+      "alt_text_en": "A withered leaf hanging from a green post",
+      "alt_text_kr": "초록 기둥에 매달린 시든 잎",
+      "emotion_tags": "E04 생동",
+      "route_order": 14,
+      "place": "Bulgwangsa · Bulgwang Park / 불광사 길·불광근린공원 길",
+      "year": "2023",
+      "lat": 37.6196941,
+      "lng": 126.9301116,
+      "audio": {
+        "file": "KPE_Vol12_Showcase_04_EP03.mp3",
+        "source": "vol12_12.mp3 27.84–41.88초",
+        "seconds": 11.4
+      },
+      "episode_en": "Episode 03 — Library",
+      "episode_kr": "이야기 03 — 도서관"
+    },
+    {
+      "scene": 5,
+      "scene_name": "기차",
+      "scene_name_en": "Train",
+      "global_id": "KPE-V12-P022",
+      "image": "vol12_ep04_01_Train.jpg",
+      "title_en": "Train",
+      "title_kr": "기차",
+      "caption_short": "Train",
+      "alt_text_en": "A large tree trunk in autumn woods, leaves on the ground",
+      "alt_text_kr": "낙엽 깔린 가을 숲의 굵은 나무 줄기",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 19,
+      "place": "Bulgwangsa · Bulgwang Park / 불광사 길·불광근린공원 길",
+      "year": "2023",
+      "lat": 37.6196941,
+      "lng": 126.9301116,
+      "audio": {
+        "file": "KPE_Vol12_Showcase_05_EP04.mp3",
+        "source": "vol12_13.mp3 29.26–45.64초",
+        "seconds": 13.8
+      },
+      "episode_en": "Episode 04 — Train",
+      "episode_kr": "이야기 04 — 기차"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "series": "KPE Archive",
+  "volume": "30",
+  "title_en": "Pond Beneath Autumn Leaves",
+  "title_kr": "단풍 아래 연못",
+  "place_kr": "창경궁 II",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol30_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V30-P004",
+      "image": "vol30_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Red maple leaves over the golden autumn reflections in the palace pond",
+      "alt_text_kr": "궁궐 연못의 금빛 가을 반영 위로 드리운 붉은 단풍잎",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Changgyeonggung Palace II / 창경궁 II",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol30_Showcase_01_Prelude.mp3",
+        "source": "vol30_03.mp3 (전체)",
+        "seconds": 106.7
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Changgyeonggung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창경궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Autumn Pond"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Visitors experience time, not landscape."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Afternoon light through leaves becomes memory, life."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Falling leaves, ripples, passing footsteps."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“Now, yet not now.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Autumn figures, flowing colors, moving people, sky and pond."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "가을 연못"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창경궁 춘당지에서 사람들은 풍경이 아닌 시간을 마주합니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "오후 햇살이 잎새와 한복 위에서 기억과 삶이 되어 흐릅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "단풍 여인, 색의 흐름, 사람, 연못."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“지금이면서 지금이 아닌” 시간을 조용히 만납니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Even our footsteps, in time, become memory."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "우리의 발걸음도 결국 기억이 된다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Red maple leaves over the golden autumn reflections in the palace pond"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "궁궐 연못의 금빛 가을 반영 위로 드리운 붉은 단풍잎"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "단풍",
+      "scene_name_en": "Autumn Leaves",
+      "global_id": "KPE-V30-P008",
+      "image": "vol30_ep01_01_autumnfoliage.jpg",
+      "title_en": "Autumn Foliage",
+      "title_kr": "가을 단풍",
+      "caption_short": "Autumn Foliage",
+      "alt_text_en": "Orange maple leaves glowing overhead in autumn",
+      "alt_text_kr": "가을, 머리 위로 빛나는 주황 단풍잎",
+      "emotion_tags": "E06 애상",
+      "route_order": 5,
+      "place": "Changgyeonggung Palace II / 창경궁 II",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol30_Showcase_02_EP01.mp3",
+        "source": "vol30_10.mp3 33.38–49.42초",
+        "seconds": 15.3
+      },
+      "episode_en": "Episode 01 — Autumn Leaves",
+      "episode_kr": "이야기 01 — 단풍"
+    },
+    {
+      "scene": 3,
+      "scene_name": "여인",
+      "scene_name_en": "Woman",
+      "global_id": "KPE-V30-P014",
+      "image": "vol30_ep02_01_autumnwaves2.jpg",
+      "title_en": "Autumn Waves 2",
+      "title_kr": "가을 물결 2",
+      "caption_short": "Autumn Waves 2",
+      "alt_text_en": "Autumn reflections shimmering across the pond water",
+      "alt_text_kr": "연못 수면에 일렁이는 가을 반영",
+      "emotion_tags": "E06 애상",
+      "route_order": 11,
+      "place": "Changgyeonggung Palace II / 창경궁 II",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol30_Showcase_03_EP02.mp3",
+        "source": "vol30_11.mp3 34.04–49.04초",
+        "seconds": 14.6
+      },
+      "episode_en": "Episode 02 — Woman",
+      "episode_kr": "이야기 02 — 여인"
+    },
+    {
+      "scene": 4,
+      "scene_name": "연못",
+      "scene_name_en": "Pond",
+      "global_id": "KPE-V30-P020",
+      "image": "vol30_ep03_02_womaninautumn4.jpg",
+      "title_en": "Woman in Autumn 4",
+      "title_kr": "가을 여인 4",
+      "caption_short": "Woman in Autumn 4",
+      "alt_text_en": "A woman in hanbok by the pond beneath autumn foliage",
+      "alt_text_kr": "단풍 아래 연못가의 한복입은 여인",
+      "emotion_tags": "E06 애상",
+      "route_order": 17,
+      "place": "Changgyeonggung Palace II / 창경궁 II",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol30_Showcase_04_EP03.mp3",
+        "source": "vol30_12.mp3 45.14–60.92초",
+        "seconds": 14.2
+      },
+      "episode_en": "Episode 03 — Pond",
+      "episode_kr": "이야기 03 — 연못"
+    },
+    {
+      "scene": 5,
+      "scene_name": "손님",
+      "scene_name_en": "Guest",
+      "global_id": "KPE-V30-P026",
+      "image": "vol30_ep04_02_guests21.jpg",
+      "title_en": "Guests 2",
+      "title_kr": "손님 2",
+      "caption_short": "Guests 2",
+      "alt_text_en": "People gathered on a rock in the palace courtyard in autumn",
+      "alt_text_kr": "가을, 궁궐 마당 바위 위에 모인 사람들",
+      "emotion_tags": "E06 애상",
+      "route_order": 23,
+      "place": "Changgyeonggung Palace II / 창경궁 II",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol30_Showcase_05_EP04.mp3",
+        "source": "vol30_13.mp3 46.70–62.68초",
+        "seconds": 16.0
+      },
+      "episode_en": "Episode 04 — Guest",
+      "episode_kr": "이야기 04 — 손님"
+    }
+  ]
+}

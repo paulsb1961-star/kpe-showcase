@@ -1,0 +1,249 @@
+{
+  "series": "KPE Archive",
+  "volume": "21",
+  "title_en": "Bond of Mother and Child",
+  "title_kr": "모자의 인연",
+  "place_kr": "태강릉",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol21_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V21-P004",
+      "image": "vol21_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "The shrine and royal tomb beyond autumn foliage",
+      "alt_text_kr": "단풍 너머 정자각과 왕릉",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Taegangneung Royal Tomb / 태강릉",
+      "year": "2024",
+      "lat": 37.6361397,
+      "lng": 127.0976792,
+      "audio": {
+        "file": "KPE_Vol21_Showcase_01_Prelude.mp3",
+        "source": "vol21_03.mp3 (전체)",
+        "seconds": 118.2
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Taegangneung Royal Tomb."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "태강릉을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Enduring Bond"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Death could not sever them."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Queen Munjeong, King Myeongjong—a son becoming king at twelve, a mother alone even in death."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Along the path between Taereung and Gangneung, time flows five hundred years deep."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Modern visitors meet history, and traces of hearts left behind linger in the landscape."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beyond knowing history, we experience it—and reconsider what it means to be human."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "끊이지 않는 인연"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "죽음조차 끊지 못한 인연."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "열두 살에 왕이 된 아들, 죽어서도 남편 곁에 누울 수 없는 어미."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "태릉과 강릉 사이 오솔길에는 오백 년의 시간이 흐릅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "현대 방문객과 역사 속 마음들이 길 위에서 마주하며 남아 있습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "역사를 아는 것을 넘어 몸으로 경험하고 인간의 마음을 다시 묻게 합니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A bond between mother and son that even death could not sever."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "죽음조차 끊지 못한 모자의 인연."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The shrine and royal tomb beyond autumn foliage"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "단풍 너머 정자각과 왕릉"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "태릉",
+      "scene_name_en": "Taereung",
+      "global_id": "KPE-V21-P008",
+      "image": "vol21_ep01_01_taeneungtomb.jpg",
+      "title_en": "Taereung Tomb",
+      "title_kr": "태릉",
+      "caption_short": "Taereung Tomb",
+      "alt_text_en": "The red T-shaped shrine of the royal tomb with visitors approaching",
+      "alt_text_kr": "방문객이 다가서는 왕릉의 붉은 정자각",
+      "emotion_tags": "E07 사색",
+      "route_order": 5,
+      "place": "Taegangneung Royal Tomb / 태강릉",
+      "year": "2024",
+      "lat": 37.6361397,
+      "lng": 127.0976792,
+      "audio": {
+        "file": "KPE_Vol21_Showcase_02_EP01.mp3",
+        "source": "vol21_10.mp3 34.14–50.56초",
+        "seconds": 13.9
+      },
+      "episode_en": "Episode 01 — Taereung",
+      "episode_kr": "이야기 01 — 태릉"
+    },
+    {
+      "scene": 3,
+      "scene_name": "두 여인",
+      "scene_name_en": "Two Women",
+      "global_id": "KPE-V21-P014",
+      "image": "vol21_ep02_01_taeneungvisitors.jpg",
+      "title_en": "Taereung Visitors",
+      "title_kr": "태릉 방문객",
+      "caption_short": "Taereung Visitors",
+      "alt_text_en": "The red shrine at the end of a stone path, with visitors",
+      "alt_text_kr": "돌길 끝의 붉은 정자각과 관람객들",
+      "emotion_tags": "E04 생동",
+      "route_order": 11,
+      "place": "Taegangneung Royal Tomb / 태강릉",
+      "year": "2024",
+      "lat": 37.6361397,
+      "lng": 127.0976792,
+      "audio": {
+        "file": "KPE_Vol21_Showcase_03_EP02.mp3",
+        "source": "vol21_11.mp3 34.02–50.48초",
+        "seconds": 13.8
+      },
+      "episode_en": "Episode 02 — Two Women",
+      "episode_kr": "이야기 02 — 두 여인"
+    },
+    {
+      "scene": 4,
+      "scene_name": "오솔길",
+      "scene_name_en": "Forest Path",
+      "global_id": "KPE-V21-P020",
+      "image": "vol21_ep03_01_foresttrail2.jpg",
+      "title_en": "Forest Trail 2",
+      "title_kr": "숲길 2",
+      "caption_short": "Forest Trail 2",
+      "alt_text_en": "A man on a bench in an autumn forest with a large tree",
+      "alt_text_kr": "굵은 나무가 있는 가을 숲, 벤치에 앉은 남자",
+      "emotion_tags": "E04 생동 · E01 적막",
+      "route_order": 17,
+      "place": "Taegangneung Royal Tomb / 태강릉",
+      "year": "2024",
+      "lat": 37.6361397,
+      "lng": 127.0976792,
+      "audio": {
+        "file": "KPE_Vol21_Showcase_04_EP03.mp3",
+        "source": "vol21_12.mp3 33.88–50.28초",
+        "seconds": 14.8
+      },
+      "episode_en": "Episode 03 — Forest Path",
+      "episode_kr": "이야기 03 — 오솔길"
+    },
+    {
+      "scene": 5,
+      "scene_name": "강릉",
+      "scene_name_en": "Gangneung",
+      "global_id": "KPE-V21-P026",
+      "image": "vol21_ep04_01_visitors4.jpg",
+      "title_en": "Visitor 4",
+      "title_kr": "방문객 4",
+      "caption_short": "Visitor 4",
+      "alt_text_en": "Yellow autumn leaves overhanging a forest path",
+      "alt_text_kr": "숲길 위로 드리운 노란 단풍잎",
+      "emotion_tags": "E04 생동",
+      "route_order": 23,
+      "place": "Taegangneung Royal Tomb / 태강릉",
+      "year": "2024",
+      "lat": 37.6361397,
+      "lng": 127.0976792,
+      "audio": {
+        "file": "KPE_Vol21_Showcase_05_EP04.mp3",
+        "source": "vol21_13.mp3 31.82–46.86초",
+        "seconds": 12.4
+      },
+      "episode_en": "Episode 04 — Gangneung",
+      "episode_kr": "이야기 04 — 강릉"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "series": "KPE Archive",
+  "volume": "11",
+  "title_en": "Those Who Pass Without Notice",
+  "title_kr": "무심히 오가는 이들",
+  "place_kr": "골목길 · 창릉천",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol11_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V11-P004",
+      "image": "vol11_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A night alley with two people and a painted speed marking on the road",
+      "alt_text_kr": "노면에 속도 표시가 그려진 밤 골목과 두 사람",
+      "emotion_tags": "E02 여운 · E05 정취",
+      "route_order": 1,
+      "place": "Changneung Stream · Bulgwang / 창릉천·불광동 골목",
+      "year": "2023",
+      "lat": 37.6479339,
+      "lng": 126.8858638,
+      "audio": {
+        "file": "KPE_Vol11_Showcase_01_Prelude.mp3",
+        "source": "vol11_03.mp3 (전체)",
+        "seconds": 125.0
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Alleyways & Changneung Stream."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "골목길과 창릉천을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Fleeting Steps"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In dim alleyways, people pass beneath pale lights, unaware of what is fading."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Old signs flicker over streets marked for erasure, yet footsteps continue their ordinary rhythm."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "By the stream’s edge, figures stand abandoned—as if even in stillness they cannot close their eyes."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Darkness, signboards, survival."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In a city that changes too quickly, what must we remember before it is washed away?"
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "스쳐가는 발걸음"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "어둠 속에서 사람들은 무심히 지나갑니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라질 골목 위로 낡은 간판만 희미하게 빛나고, 일상은 여전히 발걸음 속에 이어집니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "개울가 외진 자리, 방치된 형상들은 감지 못한 눈으로 시간을 바라봅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "어둠, 간판, 적자생존."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "급히 변하는 도시 속에서 우리는 무엇을 잊지 말아야 할까요."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Amid vanishing alleys, time flows on, indifferent."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라질 골목과 버려진 것들, 시간은 그 위로 흐른다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A night alley with two people and a painted speed marking on the road"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "노면에 속도 표시가 그려진 밤 골목과 두 사람"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "어둠",
+      "scene_name_en": "Darkness",
+      "global_id": "KPE-V11-P008",
+      "image": "vol11_ep01_01_Darkness.jpg",
+      "title_en": "Darkness",
+      "title_kr": "어둠",
+      "caption_short": "Darkness",
+      "alt_text_en": "A dark rooftop view at night with a distant moon and tangled wires",
+      "alt_text_kr": "멀리 달이 뜨고 전선이 얽힌 밤의 지붕들",
+      "emotion_tags": "E02 여운 · E04 생동",
+      "route_order": 5,
+      "place": "Changneung Stream · Bulgwang / 창릉천·불광동 골목",
+      "year": "2023",
+      "lat": 37.6479339,
+      "lng": 126.8858638,
+      "audio": {
+        "file": "KPE_Vol11_Showcase_02_EP01.mp3",
+        "source": "vol11_10.mp3 25.94–43.64초",
+        "seconds": 15.1
+      },
+      "episode_en": "Episode 01 — Darkness",
+      "episode_kr": "이야기 01 — 어둠"
+    },
+    {
+      "scene": 3,
+      "scene_name": "간판",
+      "scene_name_en": "Signboards",
+      "global_id": "KPE-V11-P014",
+      "image": "vol11_ep02_01_Signboards.jpg",
+      "title_en": "Signboards",
+      "title_kr": "간판",
+      "caption_short": "Signboards",
+      "alt_text_en": "A rice-mill shopfront lit at night with a parked motorbike",
+      "alt_text_kr": "오토바이가 세워진, 밤에 불 밝힌 방앗간 가게",
+      "emotion_tags": "E02 여운",
+      "route_order": 11,
+      "place": "Changneung Stream · Bulgwang / 창릉천·불광동 골목",
+      "year": "2023",
+      "lat": 37.6479339,
+      "lng": 126.8858638,
+      "audio": {
+        "file": "KPE_Vol11_Showcase_03_EP02.mp3",
+        "source": "vol11_11.mp3 28.36–44.90초",
+        "seconds": 13.9
+      },
+      "episode_en": "Episode 02 — Signboards",
+      "episode_kr": "이야기 02 — 간판"
+    },
+    {
+      "scene": 4,
+      "scene_name": "원시인",
+      "scene_name_en": "Primitive Men",
+      "global_id": "KPE-V11-P018",
+      "image": "vol11_ep03_01_primitivemen.jpg",
+      "title_en": "Primitive Men",
+      "title_kr": "원시인",
+      "caption_short": "Primitive Men",
+      "alt_text_en": "A sculpture holding a stone axe, watching passersby",
+      "alt_text_kr": "지나는 사람들을 바라보는 돌도끼를 든 조각물",
+      "emotion_tags": "E02 여운 · E04 생동",
+      "route_order": 15,
+      "place": "Changneung Stream · Bulgwang / 창릉천·불광동 골목",
+      "year": "2023",
+      "lat": 37.6479339,
+      "lng": 126.8858638,
+      "audio": {
+        "file": "KPE_Vol11_Showcase_04_EP03.mp3",
+        "source": "vol11_12.mp3 35.58–51.62초",
+        "seconds": 13.5
+      },
+      "episode_en": "Episode 03 — Primitive Men",
+      "episode_kr": "이야기 03 — 원시인"
+    },
+    {
+      "scene": 5,
+      "scene_name": "생존",
+      "scene_name_en": "Survival",
+      "global_id": "KPE-V11-P023",
+      "image": "vol11_ep04_01_Survival.jpg",
+      "title_en": "Survival",
+      "title_kr": "생존",
+      "caption_short": "Survival",
+      "alt_text_en": "Primitive-man sculptures by a roadside as a city bus passes",
+      "alt_text_kr": "시내버스가 지나는 길가의 원시인 조각물들",
+      "emotion_tags": "E02 여운 · E04 생동",
+      "route_order": 20,
+      "place": "Changneung Stream · Bulgwang / 창릉천·불광동 골목",
+      "year": "2023",
+      "lat": 37.6479339,
+      "lng": 126.8858638,
+      "audio": {
+        "file": "KPE_Vol11_Showcase_05_EP04.mp3",
+        "source": "vol11_13.mp3 29.76–46.58초",
+        "seconds": 14.2
+      },
+      "episode_en": "Episode 04 — Survival",
+      "episode_kr": "이야기 04 — 생존"
+    }
+  ]
+}

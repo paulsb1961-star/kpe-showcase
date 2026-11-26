@@ -1,0 +1,234 @@
+{
+  "series": "KPE Archive",
+  "volume": "29",
+  "title_en": "Climbing the Valley",
+  "title_kr": "계곡을 오르다",
+  "place_kr": "금선사",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol29_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V29-P004",
+      "image": "vol29_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A single pine seen through the temple gate",
+      "alt_text_kr": "절 문 너머로 보이는 소나무 한 그루",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Geumseonsa Temple / 금선사",
+      "year": "2024",
+      "lat": 37.6205778,
+      "lng": 126.9533792,
+      "audio": {
+        "file": "KPE_Vol29_Showcase_01_Prelude.mp3",
+        "source": "vol29_03.mp3 (전체)",
+        "seconds": 95.0
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set at Geumseonsa Temple."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "금선사를 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Upward Path"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Water flows downward, people climb upward."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Six hundred years of loss and rebuild, yet stone and water remain."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Valley, stone, people, sky—a journey from outer world to inner self."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "오르는 길"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "물은 아래로 흐르고, 사람은 위로 오릅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "육백 년의 역사 속 계곡과 바위는 여전히 남습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "계곡, 바위, 사람, 하늘."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "외부에서 내면으로, 욕망에서 자유로 향하는 여정."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "As water flows downward, quiet freedom rises within."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "물은 흐르고 자유는 깨어난다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A single pine seen through the temple gate"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "절 문 너머로 보이는 소나무 한 그루"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "계곡",
+      "scene_name_en": "Valley",
+      "global_id": "KPE-V29-P008",
+      "image": "vol29_ep01_01_bukhansan.jpg",
+      "title_en": "Bukhansan",
+      "title_kr": "북한산",
+      "caption_short": "Bukhansan",
+      "alt_text_en": "Granite peaks of Bukhansan beyond pine branches",
+      "alt_text_kr": "소나무 숲 너머 북한산의 화강암 봉우리",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Geumseonsa Temple / 금선사",
+      "year": "2025",
+      "lat": 37.6205778,
+      "lng": 126.9533792,
+      "audio": {
+        "file": "KPE_Vol29_Showcase_02_EP01.mp3",
+        "source": "vol29_10.mp3 32.30–48.12초",
+        "seconds": 13.9
+      },
+      "episode_en": "Episode 01 — Valley",
+      "episode_kr": "이야기 01 — 계곡"
+    },
+    {
+      "scene": 3,
+      "scene_name": "바위",
+      "scene_name_en": "Rock",
+      "global_id": "KPE-V29-P014",
+      "image": "vol29_ep02_01_waterstream.jpg",
+      "title_en": "Water Stream",
+      "title_kr": "물줄기",
+      "caption_short": "Water Stream",
+      "alt_text_en": "Water trickling down a moss-covered stone wall",
+      "alt_text_kr": "이끼 낀 돌벽을 타고 흐르는 물줄기",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 11,
+      "place": "Geumseonsa Temple / 금선사",
+      "year": "2025",
+      "lat": 37.6205778,
+      "lng": 126.9533792,
+      "audio": {
+        "file": "KPE_Vol29_Showcase_03_EP02.mp3",
+        "source": "vol29_11.mp3 27.32–42.52초",
+        "seconds": 15.2
+      },
+      "episode_en": "Episode 02 — Rock",
+      "episode_kr": "이야기 02 — 바위"
+    },
+    {
+      "scene": 4,
+      "scene_name": "사람",
+      "scene_name_en": "People",
+      "global_id": "KPE-V29-P018",
+      "image": "vol29_ep03_01_seoulsky.jpg",
+      "title_en": "Seoul Sky",
+      "title_kr": "서울 하늘",
+      "caption_short": "Seoul Sky",
+      "alt_text_en": "The Seoul skyline and N Seoul Tower beyond the mountain trees",
+      "alt_text_kr": "산 나무 너머의 서울 스카이라인과 남산타워",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 15,
+      "place": "Geumseonsa Temple / 금선사",
+      "year": "2025",
+      "lat": 37.6205778,
+      "lng": 126.9533792,
+      "audio": {
+        "file": "KPE_Vol29_Showcase_04_EP03.mp3",
+        "source": "vol29_12.mp3 27.54–44.06초",
+        "seconds": 14.2
+      },
+      "episode_en": "Episode 03 — People",
+      "episode_kr": "이야기 03 — 사람"
+    },
+    {
+      "scene": 5,
+      "scene_name": "하늘",
+      "scene_name_en": "Sky",
+      "global_id": "KPE-V29-P023",
+      "image": "vol29_ep04_01_ascendingpath.jpg",
+      "title_en": "Ascending Path",
+      "title_kr": "오르는 길",
+      "caption_short": "Ascending Path",
+      "alt_text_en": "A mountain trail climbing toward the temple, with hikers",
+      "alt_text_kr": "절집을 향해 오르는 산길과 등산객",
+      "emotion_tags": "E07 사색",
+      "route_order": 20,
+      "place": "Geumseonsa Temple / 금선사",
+      "year": "2025",
+      "lat": 37.6205778,
+      "lng": 126.9533792,
+      "audio": {
+        "file": "KPE_Vol29_Showcase_05_EP04.mp3",
+        "source": "vol29_13.mp3 33.14–48.88초",
+        "seconds": 15.6
+      },
+      "episode_en": "Episode 04 — Sky",
+      "episode_kr": "이야기 04 — 하늘"
+    }
+  ]
+}

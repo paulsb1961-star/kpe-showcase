@@ -1,0 +1,239 @@
+{
+  "series": "KPE Archive",
+  "volume": "25",
+  "title_en": "A Mother's Time on the Hill",
+  "title_kr": "엄마의 시간",
+  "place_kr": "남산공원",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol25_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V25-P004",
+      "image": "vol25_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "The hazy city below Namsan seen over a railing",
+      "alt_text_kr": "난간 너머로 본, 남산 아래 안개 낀 도시",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Namsan Park / 남산공원",
+      "year": "2024",
+      "lat": 37.5511694,
+      "lng": 126.9882266,
+      "audio": {
+        "file": "KPE_Vol25_Showcase_01_Prelude.mp3",
+        "source": "vol25_03.mp3 (전체)",
+        "seconds": 97.1
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Namsan Park."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "남산공원을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Holding Hands"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A child leaves her mother’s hand and walks unknown time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Decades later, the mother appears like mist in a dream."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Time flows fast, irreversible."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The hand beside you must be held warmly, here and now."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "손을 잡다"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "손을 놓지 않던 아이는 세상으로 나갑니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "중년이 된 어느 날, 희미한 엄마의 모습이 꿈에 스칩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "시간은 빠르고 되돌릴 수 없습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금 옆에 있는 사람의 손을 더 따뜻하게 잡아야 합니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Before time slips away, I reach once more for my mother’s hand."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "시간이 흐르기 전에 엄마의 손을 다시 잡는다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The hazy city below Namsan seen over a railing"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "난간 너머로 본, 남산 아래 안개 낀 도시"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "엄마",
+      "scene_name_en": "Mother",
+      "global_id": "KPE-V25-P008",
+      "image": "vol25_ep01_01_momandchild.jpg",
+      "title_en": "Mom and Child",
+      "title_kr": "엄마와 아이",
+      "caption_short": "Mom and Child",
+      "alt_text_en": "A mother and child at a railing against the hazy city",
+      "alt_text_kr": "안개 낀 도시를 배경으로 난간의 엄마와 아이",
+      "emotion_tags": "E04 생동",
+      "route_order": 5,
+      "place": "Namsan Park / 남산공원",
+      "year": "2024",
+      "lat": 37.5511694,
+      "lng": 126.9882266,
+      "audio": {
+        "file": "KPE_Vol25_Showcase_02_EP01.mp3",
+        "source": "vol25_10.mp3 33.86–50.38초",
+        "seconds": 13.9
+      },
+      "episode_en": "Episode 01 — Mother",
+      "episode_kr": "이야기 01 — 엄마"
+    },
+    {
+      "scene": 3,
+      "scene_name": "세상",
+      "scene_name_en": "The World",
+      "global_id": "KPE-V25-P014",
+      "image": "vol25_ep02_02_uphillpath.jpg",
+      "title_en": "Uphill Path",
+      "title_kr": "오르막길",
+      "caption_short": "Uphill Path",
+      "alt_text_en": "A cyclist on an uphill path casting a long autumn shadow",
+      "alt_text_kr": "긴 그림자를 드리운 오르막길을 자전거 타고 가는 사람",
+      "emotion_tags": "E04 생동",
+      "route_order": 11,
+      "place": "Namsan Park / 남산공원",
+      "year": "2024",
+      "lat": 37.5511694,
+      "lng": 126.9882266,
+      "audio": {
+        "file": "KPE_Vol25_Showcase_03_EP02.mp3",
+        "source": "vol25_11.mp3 45.76–63.08초",
+        "seconds": 14.7
+      },
+      "episode_en": "Episode 02 — The World",
+      "episode_kr": "이야기 02 — 세상"
+    },
+    {
+      "scene": 4,
+      "scene_name": "중년",
+      "scene_name_en": "Middle Age",
+      "global_id": "KPE-V25-P018",
+      "image": "vol25_ep03_01_namsanautumnfoliage.jpg",
+      "title_en": "Autumn Foliage",
+      "title_kr": "남산 단풍",
+      "caption_short": "Autumn Foliage",
+      "alt_text_en": "Autumn-coloured Namsan beneath a communications tower against the sky",
+      "alt_text_kr": "하늘 배경의 통신탑 아래 단풍으로 물든 남산",
+      "emotion_tags": "E06 애상",
+      "route_order": 15,
+      "place": "Namsan Park / 남산공원",
+      "year": "2024",
+      "lat": 37.5511694,
+      "lng": 126.9882266,
+      "audio": {
+        "file": "KPE_Vol25_Showcase_04_EP03.mp3",
+        "source": "vol25_12.mp3 30.86–48.00초",
+        "seconds": 14.6
+      },
+      "episode_en": "Episode 03 — Middle Age",
+      "episode_kr": "이야기 03 — 중년"
+    },
+    {
+      "scene": 5,
+      "scene_name": "남산",
+      "scene_name_en": "Namsan",
+      "global_id": "KPE-V25-P023",
+      "image": "vol25_ep04_01_namsantower.jpg",
+      "title_en": "Tower",
+      "title_kr": "남산타워",
+      "caption_short": "Tower",
+      "alt_text_en": "N Seoul Tower rising among autumn foliage",
+      "alt_text_kr": "단풍 사이로 솟은 남산타워",
+      "emotion_tags": "E07 사색",
+      "route_order": 20,
+      "place": "Namsan Park / 남산공원",
+      "year": "2024",
+      "lat": 37.5511694,
+      "lng": 126.9882266,
+      "audio": {
+        "file": "KPE_Vol25_Showcase_05_EP04.mp3",
+        "source": "vol25_13.mp3 34.50–49.54초",
+        "seconds": 12.5
+      },
+      "episode_en": "Episode 04 — Namsan",
+      "episode_kr": "이야기 04 — 남산"
+    }
+  ]
+}

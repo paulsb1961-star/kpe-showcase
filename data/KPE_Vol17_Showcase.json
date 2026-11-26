@@ -1,0 +1,254 @@
+{
+  "series": "KPE Archive",
+  "volume": "17",
+  "title_en": "People of Spring and Autumn",
+  "title_kr": "봄 가을 사람들",
+  "place_kr": "덕수궁",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol17_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V17-P004",
+      "image": "vol17_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "People at outdoor café tables beside the palace grounds",
+      "alt_text_kr": "궁궐 곁 야외 카페 테이블의 사람들",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Deoksugung Palace / 덕수궁",
+      "year": "2024",
+      "lat": 37.5658862,
+      "lng": 126.9749017,
+      "audio": {
+        "file": "KPE_Vol17_Showcase_01_Prelude.mp3",
+        "source": "vol17_03.mp3 (전체)",
+        "seconds": 120.9
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Deoksugung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "덕수궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Seasonal Faces"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Seasons turn across the palace pond."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Spring blossoms, autumn leaves, faces that come and go."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beneath deepening shade, footsteps blend into centuries."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“Now, yet not now; then, yet not then.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "An old man’s back, a child holding a hand—ordinary gestures where time quietly repeats itself."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "계절의 얼굴"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연못 너머로 봄과 가을이 번갈아 옵니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "꽃이 피고 단풍이 지는 사이, 사람들이 스며듭니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "깊어지는 그늘 아래 발걸음은 오백 년의 시간에 겹쳐집니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“지금이면서 지금이 아니고, 그때이면서도 그때가 아닌.”"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "노인의 뒷모습, 손을 잡은 아이."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "평범한 장면 속에서 시간은 조용히 반복됩니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Ordinary yet singular faces pass quietly through history."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "평범하지만 특별한 얼굴들이 역사 위를 지난다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "People at outdoor café tables beside the palace grounds"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "궁궐 곁 야외 카페 테이블의 사람들"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "봄 · 가을",
+      "scene_name_en": "Spring",
+      "global_id": "KPE-V17-P009",
+      "image": "vol17_ep01_02_springblossoms2.jpg",
+      "title_en": "Spring Blossoms 2",
+      "title_kr": "봄꽃 2",
+      "caption_short": "Spring Blossoms 2",
+      "alt_text_en": "A palace hall and visitors in the shade of green trees",
+      "alt_text_kr": "초록 빛 나무 그늘 아래 전각과 방문객들",
+      "emotion_tags": "E04 생동 · E06 애상",
+      "route_order": 6,
+      "place": "Deoksugung Palace / 덕수궁",
+      "year": "2024",
+      "lat": 37.5658862,
+      "lng": 126.9749017,
+      "audio": {
+        "file": "KPE_Vol17_Showcase_02_EP01.mp3",
+        "source": "vol17_10.mp3 46.92–63.44초",
+        "seconds": 16.1
+      },
+      "episode_en": "Episode 01 — Spring",
+      "episode_kr": "Autumn · 이야기 01 — 봄 · 가을"
+    },
+    {
+      "scene": 3,
+      "scene_name": "방문 사이",
+      "scene_name_en": "Between Doors",
+      "global_id": "KPE-V17-P014",
+      "image": "vol17_ep02_01_springvisitor.jpg",
+      "title_en": "Spring Visitor",
+      "title_kr": "봄 관람객",
+      "caption_short": "Spring Visitor",
+      "alt_text_en": "A visitor beyond a palace-hall door framed by green leaves",
+      "alt_text_kr": "초록 잎에 둘린 전각 방문 너머 방문객",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 11,
+      "place": "Deoksugung Palace / 덕수궁",
+      "year": "2024",
+      "lat": 37.5658862,
+      "lng": 126.9749017,
+      "audio": {
+        "file": "KPE_Vol17_Showcase_03_EP02.mp3",
+        "source": "vol17_11.mp3 34.86–51.10초",
+        "seconds": 16.3
+      },
+      "episode_en": "Episode 02 — Between Doors",
+      "episode_kr": "이야기 02 — 방문 사이"
+    },
+    {
+      "scene": 4,
+      "scene_name": "궁궐 아래",
+      "scene_name_en": "Beneath the Palace",
+      "global_id": "KPE-V17-P023",
+      "image": "vol17_ep03_01_autumnshade.jpg",
+      "title_en": "Autumn Shade",
+      "title_kr": "가을 그늘",
+      "caption_short": "Autumn Shade",
+      "alt_text_en": "A palace courtyard with long shadows and a painted eave in autumn",
+      "alt_text_kr": "가을, 길게 그늘이 내려앉은 전각 마당과 단청 처마",
+      "emotion_tags": "E06 애상",
+      "route_order": 20,
+      "place": "Deoksugung Palace / 덕수궁",
+      "year": "2023",
+      "lat": 37.5658862,
+      "lng": 126.9749017,
+      "audio": {
+        "file": "KPE_Vol17_Showcase_04_EP03.mp3",
+        "source": "vol17_12.mp3 31.72–50.36초",
+        "seconds": 16.7
+      },
+      "episode_en": "Episode 03 — Beneath the Palace",
+      "episode_kr": "이야기 03 — 궁궐 아래"
+    },
+    {
+      "scene": 5,
+      "scene_name": "사람들",
+      "scene_name_en": "People",
+      "global_id": "KPE-V17-P030",
+      "image": "vol17_ep04_02_springvisitors2.jpg",
+      "title_en": "Spring Visitors 2",
+      "title_kr": "봄 관람객 2",
+      "caption_short": "Spring Visitor 2",
+      "alt_text_en": "A person passing the corner of a palace hall in spring",
+      "alt_text_kr": "봄, 궁궐 전각의 모퉁이를 지나는 사람",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 27,
+      "place": "Deoksugung Palace / 덕수궁",
+      "year": "2024",
+      "lat": 37.5658862,
+      "lng": 126.9749017,
+      "audio": {
+        "file": "KPE_Vol17_Showcase_05_EP04.mp3",
+        "source": "vol17_13.mp3 45.62–61.58초",
+        "seconds": 15.9
+      },
+      "episode_en": "Episode 04 — People",
+      "episode_kr": "이야기 04 — 사람들"
+    }
+  ]
+}

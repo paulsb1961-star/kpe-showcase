@@ -1,0 +1,274 @@
+{
+  "series": "KPE Archive",
+  "volume": "05",
+  "title_en": "Hill of Snow Blossoms",
+  "title_kr": "눈꽃 피는 언덕",
+  "place_kr": "용출정",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol05_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V05-P004",
+      "image": "vol05_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A bare branch lightly dusted with snow against a white snowfield",
+      "alt_text_kr": "하얀 눈밭을 배경으로 눈이 살짝 앉은 앙상한 가지",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 1,
+      "place": "Yongchuljeong Pavilion / 용출정",
+      "year": "2025",
+      "lat": 37.6404448,
+      "lng": 126.9381206,
+      "audio": {
+        "file": "KPE_Vol05_Showcase_01_Prelude.mp3",
+        "source": "vol05_03.mp3 (전체)",
+        "seconds": 134.6
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Yongchuljeong Pavilion."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "용출정을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Snow Blossoms"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snow Blossoms on the Hill Yongchuljeong"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "On a quiet hill, snow blossoms open."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A small pavilion stands where houses once remained."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snow settles over altered ground and forgotten traces."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Now, yet not now; then, yet not then."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snow, hill, pavilion, memory."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Four perspectives gather into a single time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The present moment, too, will become someone’s remembered past."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "눈꽃"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈꽃 피는 언덕, 용출정"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "고요한 언덕 위에 눈꽃이 피어납니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한때 삶이 머물던 자리, 작은 정자가 서 있고 변모한 땅 위로 눈이 내려앉습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금이면서도 지금이 아니고, 그때이면서도 그때가 아닌 시간."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈, 언덕, 정자, 흔적."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "네 개의 시선은 하나의 시간으로 모입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금 이 순간 또한 언젠가 누군가의 지난 시간이 됩니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Even this fleeting moment will one day become part of the past."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈꽃 언덕 위, 이 순간도 과거가 된다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A bare branch lightly dusted with snow against a white snowfield"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "하얀 눈밭을 배경으로 눈이 살짝 앉은 앙상한 가지"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "눈밭",
+      "scene_name_en": "Snowfield",
+      "global_id": "KPE-V05-P008",
+      "image": "vol05_ep01_01_Snowfield.jpg",
+      "title_en": "Snowfield",
+      "title_kr": "눈밭",
+      "caption_short": "Snowfield",
+      "alt_text_en": "A bench on a snowfield and footprints beneath bare trees",
+      "alt_text_kr": "눈밭의 벤치와 앙상한 나무 아래 발자국",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 5,
+      "place": "Yongchuljeong Pavilion / 용출정",
+      "year": "2025",
+      "lat": 37.6404448,
+      "lng": 126.9381206,
+      "audio": {
+        "file": "KPE_Vol05_Showcase_02_EP01.mp3",
+        "source": "vol05_10.mp3 29.94–46.66초",
+        "seconds": 15.5
+      },
+      "episode_en": "Episode 01 — Snowfield",
+      "episode_kr": "이야기 01 — 눈밭"
+    },
+    {
+      "scene": 3,
+      "scene_name": "정자",
+      "scene_name_en": "Pavilion",
+      "global_id": "KPE-V05-P013",
+      "image": "vol05_ep02_01_Pavilion.jpg",
+      "title_en": "Pavilion",
+      "title_kr": "정자",
+      "caption_short": "Pavilion",
+      "alt_text_en": "A hanok pavilion beside a snowy path, mountains beyond",
+      "alt_text_kr": "눈길 옆 한옥 정자, 그 너머의 산",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 10,
+      "place": "Yongchuljeong Pavilion / 용출정",
+      "year": "2025",
+      "lat": 37.6404448,
+      "lng": 126.9381206,
+      "audio": {
+        "file": "KPE_Vol05_Showcase_03_EP02.mp3",
+        "source": "vol05_11.mp3 33.74–50.40초",
+        "seconds": 14.1
+      },
+      "episode_en": "Episode 02 — Pavilion",
+      "episode_kr": "이야기 02 — 정자"
+    },
+    {
+      "scene": 4,
+      "scene_name": "언덕",
+      "scene_name_en": "The Hill",
+      "global_id": "KPE-V05-P018",
+      "image": "vol05_ep03_01_TheHill.jpg",
+      "title_en": "The Hill",
+      "title_kr": "언덕",
+      "caption_short": "The Hill",
+      "alt_text_en": "A dark hanok-museum building with a snow-covered shaped tree before it",
+      "alt_text_kr": "눈 덮인 나무 앞의 어두운 한옥박물관",
+      "emotion_tags": "E02 여운",
+      "route_order": 15,
+      "place": "Yongchuljeong Pavilion / 용출정",
+      "year": "2025",
+      "lat": 37.6404448,
+      "lng": 126.9381206,
+      "audio": {
+        "file": "KPE_Vol05_Showcase_04_EP03.mp3",
+        "source": "vol05_12.mp3 31.44–48.10초",
+        "seconds": 14.2
+      },
+      "episode_en": "Episode 03 — The Hill",
+      "episode_kr": "이야기 03 — 언덕"
+    },
+    {
+      "scene": 5,
+      "scene_name": "흔적",
+      "scene_name_en": "Traces",
+      "global_id": "KPE-V05-P023",
+      "image": "vol05_ep04_01_TheTraces.jpg",
+      "title_en": "The Traces",
+      "title_kr": "흔적",
+      "caption_short": "The Traces",
+      "alt_text_en": "Dried winter seed pods dusted with snow",
+      "alt_text_kr": "눈이 살짝 올라앉은 마른 씨앗 꼬투리",
+      "emotion_tags": "E02 여운",
+      "route_order": 20,
+      "place": "Yongchuljeong Pavilion / 용출정",
+      "year": "2025",
+      "lat": 37.6404448,
+      "lng": 126.9381206,
+      "audio": {
+        "file": "KPE_Vol05_Showcase_05_EP04.mp3",
+        "source": "vol05_13.mp3 28.34–43.54초",
+        "seconds": 12.9
+      },
+      "episode_en": "Episode 04 — Traces",
+      "episode_kr": "이야기 04 — 흔적"
+    }
+  ]
+}

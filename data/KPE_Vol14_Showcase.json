@@ -1,0 +1,264 @@
+{
+  "series": "KPE Archive",
+  "volume": "14",
+  "title_en": "The Seat the Monk Left Behind",
+  "title_kr": "선승이 비운 자리",
+  "place_kr": "삼화사",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol14_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V14-P004",
+      "image": "vol14_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A mossy stone retaining wall in close-up",
+      "alt_text_kr": "이끼 낀 축대 돌담의 근접",
+      "emotion_tags": "E01 적막",
+      "route_order": 1,
+      "place": "Samhwasa Temple / 삼화사",
+      "year": "2024",
+      "lat": 37.6348364,
+      "lng": 126.9414356,
+      "audio": {
+        "file": "KPE_Vol14_Showcase_01_Prelude.mp3",
+        "source": "vol14_03.mp3 (전체)",
+        "seconds": 110.6
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Samhwasa Temple."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "삼화사를 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Silent Traces"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A small hermitage, silent for decades."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The monk has gone, yet absence is not empty."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A well, an empty bowl, a vacant chair—forms that remember what once filled them."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Leaves gather in the courtyard."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Chanting fades."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Stillness deepens."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Vanished, yet not gone."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Emptied, yet full."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "고요한 흔적"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "작은 암자에 침묵이 남았습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "선승은 떠났지만 절집은 비어 있지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "우물과 빈 그릇, 비워진 의자는 한때 담고 있던 시간을 기억합니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "마당에는 낙엽이 구르고 독경 소리는 사라졌지만, 고요는 더 깊어집니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라진 듯, 그러나 사라지지 않은 자리."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Silence gently fills the emptiness left behind."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "비워진 자리, 고요로 충만해진다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A mossy stone retaining wall in close-up"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이끼 낀 축대 돌담의 근접"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "절집",
+      "scene_name_en": "Temple",
+      "global_id": "KPE-V14-P008",
+      "image": "vol14_ep01_01_stonebuddha.jpg",
+      "title_en": "Stone Buddha",
+      "title_kr": "돌부처",
+      "caption_short": "Stone Buddha",
+      "alt_text_en": "A small stone Buddha on a mossy rock among bare trees",
+      "alt_text_kr": "앙상한 나무 사이 이끼 낀 바위 위의 작은 석불",
+      "emotion_tags": "E01 적막 · E06 애상",
+      "route_order": 5,
+      "place": "Samhwasa Temple / 삼화사",
+      "year": "2024",
+      "lat": 37.6348364,
+      "lng": 126.9414356,
+      "audio": {
+        "file": "KPE_Vol14_Showcase_02_EP01.mp3",
+        "source": "vol14_10.mp3 35.92–53.32초",
+        "seconds": 14.8
+      },
+      "episode_en": "Episode 01 — Temple",
+      "episode_kr": "이야기 01 — 절집"
+    },
+    {
+      "scene": 3,
+      "scene_name": "낙엽",
+      "scene_name_en": "Fallen Leaves",
+      "global_id": "KPE-V14-P013",
+      "image": "vol14_ep02_01_Courtyard.jpg",
+      "title_en": "Courtyard",
+      "title_kr": "마당",
+      "caption_short": "Courtyard",
+      "alt_text_en": "A stone stepping-stone path through dry grass",
+      "alt_text_kr": "마른 풀 사이로 난 디딤돌 길",
+      "emotion_tags": "E01 적막 · E06 애상",
+      "route_order": 10,
+      "place": "Samhwasa Temple / 삼화사",
+      "year": "2024",
+      "lat": 37.6348364,
+      "lng": 126.9414356,
+      "audio": {
+        "file": "KPE_Vol14_Showcase_03_EP02.mp3",
+        "source": "vol14_11.mp3 33.66–48.46초",
+        "seconds": 12.4
+      },
+      "episode_en": "Episode 02 — Fallen Leaves",
+      "episode_kr": "이야기 02 — 낙엽"
+    },
+    {
+      "scene": 4,
+      "scene_name": "법당",
+      "scene_name_en": "Dharma Hall",
+      "global_id": "KPE-V14-P017",
+      "image": "vol14_ep03_01_templedoor.jpg",
+      "title_en": "Temple Door",
+      "title_kr": "법당 문",
+      "caption_short": "Temple Door",
+      "alt_text_en": "The paper door of a temple hall in an iron frame",
+      "alt_text_kr": "철제 틀의 법당 방문",
+      "emotion_tags": "E01 적막",
+      "route_order": 14,
+      "place": "Samhwasa Temple / 삼화사",
+      "year": "2024",
+      "lat": 37.6348364,
+      "lng": 126.9414356,
+      "audio": {
+        "file": "KPE_Vol14_Showcase_04_EP03.mp3",
+        "source": "vol14_12.mp3 30.86–45.00초",
+        "seconds": 12.0
+      },
+      "episode_en": "Episode 03 — Dharma Hall",
+      "episode_kr": "이야기 03 — 법당"
+    },
+    {
+      "scene": 5,
+      "scene_name": "그림자",
+      "scene_name_en": "Shadow",
+      "global_id": "KPE-V14-P021",
+      "image": "vol14_ep04_01_mudwall.jpg",
+      "title_en": "Mud Wall",
+      "title_kr": "흙벽",
+      "caption_short": "Mud Wall",
+      "alt_text_en": "A weathered red clay wall, its surface peeling",
+      "alt_text_kr": "표면이 벗겨진 풍화된 붉은 흙벽",
+      "emotion_tags": "E01 적막",
+      "route_order": 18,
+      "place": "Samhwasa Temple / 삼화사",
+      "year": "2024",
+      "lat": 37.6348364,
+      "lng": 126.9414356,
+      "audio": {
+        "file": "KPE_Vol14_Showcase_05_EP04.mp3",
+        "source": "vol14_13.mp3 29.76–45.30초",
+        "seconds": 13.4
+      },
+      "episode_en": "Episode 04 — Shadow",
+      "episode_kr": "이야기 04 — 그림자"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "series": "KPE Archive",
+  "volume": "16",
+  "title_en": "Shadows Beneath the Sunlight",
+  "title_kr": "햇살 아래 그림자",
+  "place_kr": "창경궁",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol16_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V16-P004",
+      "image": "vol16_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Fallen spring petals scattered across the surface of a pond",
+      "alt_text_kr": "연못 수면에 흩어진 봄 꽃잎",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Changgyeonggung Palace / 창경궁",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol16_Showcase_01_Prelude.mp3",
+        "source": "vol16_03.mp3 (전체)",
+        "seconds": 116.8
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Changgyeonggung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창경궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Light & Shadow"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Sunlight falls across an old palace, and shadows answer."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Brightness and darkness, laughter and silence, the present and history share a single frame."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“Now, yet not now; then, yet not then.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In layered time, personal memory meets the memory of place."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Here, even shadow is as essential as light."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "빛과 그림자"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "궁궐 위로 햇살이 내리고, 그림자가 응답합니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "밝음과 어둠, 웃음과 침묵, 현재와 역사가 한 장면 안에 겹쳐집니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“지금이면서 지금이 아니고, 그때이면서도 그때가 아닌.”"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "겹쳐진 시간 속에서 개인의 기억과 공간의 기억이 만납니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이곳에서는 그림자 또한 햇살만큼 중요합니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Hidden stories converge as shadows within a single frame."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "봄 햇살 아래, 이야기가 그림자로 모인다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Fallen spring petals scattered across the surface of a pond"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연못 수면에 흩어진 봄 꽃잎"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "햇살",
+      "scene_name_en": "Sunlight",
+      "global_id": "KPE-V16-P008",
+      "image": "vol16_ep01_01_Sunlight.jpg",
+      "title_en": "Sunlight",
+      "title_kr": "햇살",
+      "caption_short": "Sunlight",
+      "alt_text_en": "Fresh green trees by the palace pond path, a figure and a traditional lantern beyond",
+      "alt_text_kr": "궁궐 연못 길가의 연둣빛 나무들, 저편의 사람과 청사초롱",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 5,
+      "place": "Changgyeonggung Palace / 창경궁",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol16_Showcase_02_EP01.mp3",
+        "source": "vol16_10.mp3 30.16–51.48초",
+        "seconds": 19.5
+      },
+      "episode_en": "Episode 01 — Sunlight",
+      "episode_kr": "이야기 01 — 햇살"
+    },
+    {
+      "scene": 3,
+      "scene_name": "연못",
+      "scene_name_en": "Pond",
+      "global_id": "KPE-V16-P014",
+      "image": "vol16_ep02_01_FlowerPetals3.jpg",
+      "title_en": "Flower Petals 3",
+      "title_kr": "꽃잎 3",
+      "caption_short": "Flower Petals 3",
+      "alt_text_en": "The bright spring colours of the palace pond, pink blossoms on the far bank",
+      "alt_text_kr": "봄의 궁궐 연못의 화사한 봄빛, 건너편 기슭의 분홍 꽃",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 11,
+      "place": "Changgyeonggung Palace / 창경궁",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol16_Showcase_03_EP02.mp3",
+        "source": "vol16_11.mp3 30.14–50.10초",
+        "seconds": 18.4
+      },
+      "episode_en": "Episode 02 — Pond",
+      "episode_kr": "이야기 02 — 연못"
+    },
+    {
+      "scene": 4,
+      "scene_name": "궁궐",
+      "scene_name_en": "Palace",
+      "global_id": "KPE-V16-P019",
+      "image": "vol16_ep03_01_BeyondChanggyeonggung.jpg",
+      "title_en": "Beyond Changgyeonggung",
+      "title_kr": "너머",
+      "caption_short": "Beyond Changgyeonggung",
+      "alt_text_en": "A city skyline framed by a tree above the palace rooftops",
+      "alt_text_kr": "궁궐 지붕 위, 나무에 담긴 도심 스카이라인",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 16,
+      "place": "Changgyeonggung Palace / 창경궁",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol16_Showcase_04_EP03.mp3",
+        "source": "vol16_12.mp3 29.72–47.52초",
+        "seconds": 15.4
+      },
+      "episode_en": "Episode 03 — Palace",
+      "episode_kr": "이야기 03 — 궁궐"
+    },
+    {
+      "scene": 5,
+      "scene_name": "그림자",
+      "scene_name_en": "Shadow",
+      "global_id": "KPE-V16-P024",
+      "image": "vol16_ep04_01_InnerCourtyard.jpg",
+      "title_en": "Inner Courtyard",
+      "title_kr": "안마당",
+      "caption_short": "Inner Courtyard",
+      "alt_text_en": "A hall with its door open, seen beyond a gate, in black and white",
+      "alt_text_kr": "흑백으로 담은, 대문 너머 방문이 열린 전각",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 21,
+      "place": "Changgyeonggung Palace / 창경궁",
+      "year": "2024",
+      "lat": 37.5788149,
+      "lng": 126.9949298,
+      "audio": {
+        "file": "KPE_Vol16_Showcase_05_EP04.mp3",
+        "source": "vol16_13.mp3 28.74–46.78초",
+        "seconds": 16.3
+      },
+      "episode_en": "Episode 04 — Shadow",
+      "episode_kr": "이야기 04 — 그림자"
+    }
+  ]
+}

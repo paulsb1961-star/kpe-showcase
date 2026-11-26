@@ -1,0 +1,264 @@
+{
+  "series": "KPE Archive",
+  "volume": "04",
+  "title_en": "Snow Falls on the Village",
+  "title_kr": "눈 내리는 마을",
+  "place_kr": "한옥마을",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol04_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V04-P004",
+      "image": "vol04_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Snow-laden pines on a hillside against a clear winter sky",
+      "alt_text_kr": "맑은 겨울 하늘 아래 눈 얹힌 산비탈의 소나무들",
+      "emotion_tags": "E02 여운 · E05 정취",
+      "route_order": 1,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2025",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol04_Showcase_01_Prelude.mp3",
+        "source": "vol04_03.mp3 (전체)",
+        "seconds": 129.5
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Hanok Village."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한옥마을을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Village in Snow"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snow falls over the village at the foot of the mountain."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Roofs whiten, paths soften, and silence gathers."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Now, yet not now; then, yet not then—the first snowfall opens a threshold of time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snowflakes, branches, tiled roofs."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "What seems to vanish remains in stillness."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a landscape to observe, but a path to walk—a poem shaped by winter."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "눈 내린 마을"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "산 아래 마을에 눈이 내립니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지붕은 희어지고, 골목은 부드러워지며, 고요가 내려앉습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금이면서도 지금이 아니고, 그때이면서도 그때가 아닌 순간."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "첫눈은 시간의 경계를 엽니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈송이, 가지, 기와지붕."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라진 듯한 장면은 고요 속에 남아 있습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이것은 바라보는 풍경이 아니라 걷는 길, 겨울이 빚은 한 편의 시입니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Along snow-covered paths, forgotten eras quietly remain."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈 덮인 길, 사라지지 않고 고요히 남은 시간."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Snow-laden pines on a hillside against a clear winter sky"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "맑은 겨울 하늘 아래 눈 얹힌 산비탈의 소나무들"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "첫눈",
+      "scene_name_en": "First Snow",
+      "global_id": "KPE-V04-P008",
+      "image": "vol04_ep01_01_FirstSnow.jpg",
+      "title_en": "First Snow",
+      "title_kr": "첫눈",
+      "caption_short": "First Snow",
+      "alt_text_en": "A lone shaped tree in a planter on snow-covered ground",
+      "alt_text_kr": "눈 덮인 땅, 화분에 심긴 한 그루 다듬어진 나무",
+      "emotion_tags": "E07 사색 · E05 정취",
+      "route_order": 5,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2025",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol04_Showcase_02_EP01.mp3",
+        "source": "vol04_10.mp3 31.24–48.40초",
+        "seconds": 14.7
+      },
+      "episode_en": "Episode 01 — First Snow",
+      "episode_kr": "이야기 01 — 첫눈"
+    },
+    {
+      "scene": 3,
+      "scene_name": "마을",
+      "scene_name_en": "Village",
+      "global_id": "KPE-V04-P012",
+      "image": "vol04_ep02_01_TheVillage.jpg",
+      "title_en": "The Village",
+      "title_kr": "마을",
+      "caption_short": "The Village",
+      "alt_text_en": "A snowy path beside snow-laden roadside trees, a lone figure walking",
+      "alt_text_kr": "눈 얹힌 가로수 옆 눈길, 걸어가는 한 사람",
+      "emotion_tags": "E01 적막",
+      "route_order": 9,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2025",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol04_Showcase_03_EP02.mp3",
+        "source": "vol04_11.mp3 34.96–54.00초",
+        "seconds": 18.7
+      },
+      "episode_en": "Episode 02 — Village",
+      "episode_kr": "이야기 02 — 마을"
+    },
+    {
+      "scene": 4,
+      "scene_name": "눈송이",
+      "scene_name_en": "Snowflakes",
+      "global_id": "KPE-V04-P018",
+      "image": "vol04_ep03_01_Snowflakes.jpg",
+      "title_en": "Snowflakes",
+      "title_kr": "눈송이",
+      "caption_short": "Snowflakes",
+      "alt_text_en": "A figure beyond a red umbrella under snow-laden branches",
+      "alt_text_kr": "눈 무겁게 얹힌 가지 아래, 붉은 우산 너머 한 사람",
+      "emotion_tags": "E07 사색 · E05 정취",
+      "route_order": 15,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2025",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol04_Showcase_04_EP03.mp3",
+        "source": "vol04_12.mp3 30.90–48.14초",
+        "seconds": 15.4
+      },
+      "episode_en": "Episode 03 — Snowflakes",
+      "episode_kr": "이야기 03 — 눈송이"
+    },
+    {
+      "scene": 5,
+      "scene_name": "눈꽃",
+      "scene_name_en": "Snow Blossoms",
+      "global_id": "KPE-V04-P025",
+      "image": "vol04_ep04_01_SnowFlowers.jpg",
+      "title_en": "Snow Flowers",
+      "title_kr": "눈꽃",
+      "caption_short": "Snow Flowers",
+      "alt_text_en": "A road with passersby beside a building below the snow-covered hills",
+      "alt_text_kr": "눈 덮인 산 아래 건물 옆의 사람들",
+      "emotion_tags": "E07 사색 · E05 정취",
+      "route_order": 22,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2025",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol04_Showcase_05_EP04.mp3",
+        "source": "vol04_13.mp3 34.16–50.72초",
+        "seconds": 14.9
+      },
+      "episode_en": "Episode 04 — Snow Blossoms",
+      "episode_kr": "이야기 04 — 눈꽃"
+    }
+  ]
+}

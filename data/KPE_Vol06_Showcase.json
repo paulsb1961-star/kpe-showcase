@@ -1,0 +1,274 @@
+{
+  "series": "KPE Archive",
+  "volume": "06",
+  "title_en": "Snow Path Beneath the Hill",
+  "title_kr": "언덕 아래 눈길",
+  "place_kr": "기자촌",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol06_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V06-P004",
+      "image": "vol06_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A rock capped with a mound of snow, footprints pressed into the snow",
+      "alt_text_kr": "눈 더미를 이고 있는 바위, 눈 위에 새겨진 발자국",
+      "emotion_tags": "E01 적막 · E02 여운",
+      "route_order": 1,
+      "place": "Gijachon Village / 기자촌",
+      "year": "2025",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol06_Showcase_01_Prelude.mp3",
+        "source": "vol06_03.mp3 (전체)",
+        "seconds": 135.7
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Gijachon Village."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기자촌을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Snowy Path"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Below the hill, a snow-covered path remains where a village once stood."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Houses erased, names faded, yet footprints linger beneath white silence."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“On a snowy path I see what has passed.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Hill, path, trace, stillness."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "At the edge of disappearance, existence speaks softly."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Now, yet not now; then, yet not then."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Everything flows, yet nothing wholly vanishes."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "눈길"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "언덕 아래 눈 덮인 길이 남아 있습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한때 마을이 있던 자리."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "집은 사라지고 이름은 흐려졌지만, 흔적은 하얀 고요 아래 머뭅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“눈길 위에서 지나온 시간을 봅니다.”"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "언덕, 길, 흔적, 적막."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라짐의 경계에서 존재는 낮게 숨 쉽니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금이면서도 지금이 아니고, 그때이면서도 그때가 아닌 시간."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "모든 것은 흐르지만 아무것도 완전히 사라지지 않습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Where chroniclers once dwelt, the traces of time softly return."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기록의 자리, 시간이 돌아온다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A rock capped with a mound of snow, footprints pressed into the snow"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "눈 더미를 이고 있는 바위, 눈 위에 새겨진 발자국"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "언덕",
+      "scene_name_en": "Hill",
+      "global_id": "KPE-V06-P008",
+      "image": "vol06_ep01_01_Hill.jpg",
+      "title_en": "Hill",
+      "title_kr": "언덕",
+      "caption_short": "The Hill",
+      "alt_text_en": "An uphill path marked with footprints in melting snow",
+      "alt_text_kr": "녹아가는 눈에 발자국이 찍힌 오르막 길",
+      "emotion_tags": "E01 적막",
+      "route_order": 5,
+      "place": "Gijachon Village / 기자촌",
+      "year": "2025",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol06_Showcase_02_EP01.mp3",
+        "source": "vol06_10.mp3 30.68–46.68초",
+        "seconds": 16.0
+      },
+      "episode_en": "Episode 01 — Hill",
+      "episode_kr": "이야기 01 — 언덕"
+    },
+    {
+      "scene": 3,
+      "scene_name": "눈길",
+      "scene_name_en": "Snow Path",
+      "global_id": "KPE-V06-P033",
+      "image": "vol06_ep02_01_SnowPath.jpg",
+      "title_en": "The Snow Path",
+      "title_kr": "눈길",
+      "caption_short": "The Snow Path",
+      "alt_text_en": "Snow piled on top of a wooden post",
+      "alt_text_kr": "눈이 소복이 쌓인 나무 기둥 끝",
+      "emotion_tags": "",
+      "route_order": null,
+      "place": "Gijachon Village / 기자촌",
+      "year": "2025",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol06_Showcase_03_EP02.mp3",
+        "source": "vol06_11.mp3 34.80–49.14초",
+        "seconds": 13.0
+      },
+      "episode_en": "Episode 02 — Snow Path",
+      "episode_kr": "이야기 02 — 눈길"
+    },
+    {
+      "scene": 4,
+      "scene_name": "흔적",
+      "scene_name_en": "Traces",
+      "global_id": "KPE-V06-P018",
+      "image": "vol06_ep03_01_Traces.jpg",
+      "title_en": "Traces",
+      "title_kr": "흔적",
+      "caption_short": "The Traces",
+      "alt_text_en": "A snow-dusted paved path painted with a warning marking",
+      "alt_text_kr": "경고 표시가 그려진, 눈이 살짝 덮인 포장 길",
+      "emotion_tags": "E01 적막 · E02 여운",
+      "route_order": 15,
+      "place": "Gijachon Village / 기자촌",
+      "year": "2025",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol06_Showcase_04_EP03.mp3",
+        "source": "vol06_12.mp3 32.00–48.12초",
+        "seconds": 14.9
+      },
+      "episode_en": "Episode 03 — Traces",
+      "episode_kr": "이야기 03 — 흔적"
+    },
+    {
+      "scene": 5,
+      "scene_name": "적막",
+      "scene_name_en": "Silence",
+      "global_id": "KPE-V06-P024",
+      "image": "vol06_ep04_01_Silence.jpg",
+      "title_en": "Silence",
+      "title_kr": "고요",
+      "caption_short": "The Silence",
+      "alt_text_en": "A bench on a white snowfield with faint footprints",
+      "alt_text_kr": "희미한 발자국이 남은 하얀 눈밭의 벤치",
+      "emotion_tags": "E01 적막",
+      "route_order": 21,
+      "place": "Gijachon Village / 기자촌",
+      "year": "2025",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol06_Showcase_05_EP04.mp3",
+        "source": "vol06_13.mp3 31.18–46.14초",
+        "seconds": 12.5
+      },
+      "episode_en": "Episode 04 — Silence",
+      "episode_kr": "이야기 04 — 적막"
+    }
+  ]
+}

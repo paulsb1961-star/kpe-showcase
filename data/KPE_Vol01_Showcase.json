@@ -1,0 +1,239 @@
+{
+  "series": "KPE Archive",
+  "volume": "01",
+  "title_en": "Beyond the Palace: The Secret Garden",
+  "title_kr": "궁궐 너머 후원",
+  "place_kr": "창덕궁",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol01_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V01-P004",
+      "image": "vol01_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "The Gyujanggak halls and tiled roofs reflected upside-down and rippling on the surface of Buyongji pond",
+      "alt_text_kr": "부용지 수면에 거꾸로 비친 규장각의 전각과 기와지붕이 물결에 흔들린다.",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 1,
+      "place": "Changdeokgung Palace / 창덕궁",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol01_Showcase_01_Prelude.mp3",
+        "source": "vol01_03.mp3 (전체)",
+        "seconds": 116.1
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Changdeokgung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창덕궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "A Place in Time"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Changdeokgung Palace, built in the 15th century, remains one of Korea’s most intimate royal spaces."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Its Secret Garden was shaped not for spectacle, but for reflection."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This book approaches the garden not as history, but as lived time."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "시간 속의 장소"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창덕궁은 15세기에 세워진 조선 왕실의 궁궐입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "그중에서도 후원은 권위나 장관을 드러내는 공간이기보다, 고요히 머물고 사유하는 자리였습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 그 공간을 역사적 사실로 설명하기보다, 겹겹이 쌓인 시간의 결로 바라봅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "궁궐은 과거에만 머물러 있지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "빛과 계절 속에서 지금도 조용히 이어지고 있습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beyond the king’s ancient anxieties, time flows in solemn stillness."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "부용지에 머문 왕의 근심 너머로 시간이 머문다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The Gyujanggak halls and tiled roofs reflected upside-down and rippling on the surface of Buyongji pond"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "부용지 수면에 거꾸로 비친 규장각의 전각과 기와지붕이 물결에 흔들린다."
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "후원",
+      "scene_name_en": "The Rear Garden",
+      "global_id": "KPE-V01-P008",
+      "image": "vol01_ep01_01_buyongji2.jpg",
+      "title_en": "Buyongji 2",
+      "title_kr": "부용지 2",
+      "caption_short": "Buyongji 2",
+      "alt_text_en": "Visitors on the stone steps above Buyongji pond, the Buyongjeong pavilion mirrored in the water",
+      "alt_text_kr": "부용지 돌계단 위의 관람객들과 수면에 비친 부용정 건물",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Changdeokgung Palace / 창덕궁",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol01_Showcase_02_EP01.mp3",
+        "source": "vol01_10.mp3 37.46–56.66초",
+        "seconds": 16.6
+      },
+      "episode_en": "Episode 01 — The Rear Garden",
+      "episode_kr": "이야기 01 — 후원"
+    },
+    {
+      "scene": 3,
+      "scene_name": "가을",
+      "scene_name_en": "Autumn",
+      "global_id": "KPE-V01-P013",
+      "image": "vol01_ep02_01_seungjaejeong.jpg",
+      "title_en": "Seungjaejeong",
+      "title_kr": "승재정",
+      "caption_short": "Seungjaejeong",
+      "alt_text_en": "The painted Seungjaejeong pavilion half-hidden behind trees, an arching tree trunk in front",
+      "alt_text_kr": "나무 뒤로 반쯤 숨은 단청 정자 승재정, 앞으로 굽은 나무줄기",
+      "emotion_tags": "E01 적막",
+      "route_order": 10,
+      "place": "Changdeokgung Palace / 창덕궁",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol01_Showcase_03_EP02.mp3",
+        "source": "vol01_11.mp3 38.34–60.62초",
+        "seconds": 20.8
+      },
+      "episode_en": "Episode 02 — Autumn",
+      "episode_kr": "이야기 02 — 가을"
+    },
+    {
+      "scene": 4,
+      "scene_name": "사람들",
+      "scene_name_en": "People",
+      "global_id": "KPE-V01-P021",
+      "image": "vol01_ep03_03_visitors3.jpg",
+      "title_en": "Visitors 3",
+      "title_kr": "방문객 3",
+      "caption_short": "Visitors 3",
+      "alt_text_en": "People resting in dappled shade by a stone wall beneath large trees",
+      "alt_text_kr": "큰 나무 그늘 아래 돌담 가에서 쉬는 사람들, 얼룩진 햇빛",
+      "emotion_tags": "E04 생동",
+      "route_order": 18,
+      "place": "Changdeokgung Palace / 창덕궁",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol01_Showcase_04_EP03.mp3",
+        "source": "vol01_12.mp3 71.50–92.38초",
+        "seconds": 19.6
+      },
+      "episode_en": "Episode 03 — People",
+      "episode_kr": "이야기 03 — 사람들"
+    },
+    {
+      "scene": 5,
+      "scene_name": "아이들",
+      "scene_name_en": "Children",
+      "global_id": "KPE-V01-P025",
+      "image": "vol01_ep04_01_children.jpg",
+      "title_en": "Children",
+      "title_kr": "아이들",
+      "caption_short": "Children",
+      "alt_text_en": "A bright palace courtyard and hall seen from within a dark gateway, silhouettes of children in the foreground",
+      "alt_text_kr": "어두운 문 안에서 바라본 밝은 궁궐 마당과 전각, 앞쪽 아이들의 실루엣",
+      "emotion_tags": "E04 생동 · E06 애상",
+      "route_order": 22,
+      "place": "Changdeokgung Palace / 창덕궁",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol01_Showcase_05_EP04.mp3",
+        "source": "vol01_13.mp3 36.82–58.70초",
+        "seconds": 20.7
+      },
+      "episode_en": "Episode 04 — Children",
+      "episode_kr": "이야기 04 — 아이들"
+    }
+  ]
+}

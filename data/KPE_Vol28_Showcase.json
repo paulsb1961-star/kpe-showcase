@@ -1,0 +1,234 @@
+{
+  "series": "KPE Archive",
+  "volume": "28",
+  "title_en": "Time Going Again",
+  "title_kr": "다시 가는 시간",
+  "place_kr": "기자촌 III",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol28_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V28-P004",
+      "image": "vol28_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A faint construction site against a sunset sky over the hills",
+      "alt_text_kr": "산 위 노을 하늘을 배경으로 희미한 건설 현장",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Gijachon Village III / 기자촌 III",
+      "year": "2024",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol28_Showcase_01_Prelude.mp3",
+        "source": "vol28_03.mp3 (전체)",
+        "seconds": 98.3
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Gijachon Village."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기자촌을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Returning Time"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In a redeveloping village, sunlight, seasons, shadow, and light—memory persists."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Ginkgo trees, pine groves, footsteps of those who return."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“Yes, I lived here…”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Change is accepted, memories held."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "돌아가는 시간"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "개발 중 기자촌, 늦은 햇살과 계절, 그림자와 빛."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "은행나무, 소나무, 다시 찾는 발걸음."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“그래, 여기 살고 있었지…” 변화를 받아들이면서도 기억은 놓지 않습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Like falling leaves, memory never truly fades."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기억은 끝내 사라지지 않는다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A faint construction site against a sunset sky over the hills"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "산 위 노을 하늘을 배경으로 희미한 건설 현장"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "그림자",
+      "scene_name_en": "Shadow",
+      "global_id": "KPE-V28-P008",
+      "image": "vol28_ep01_01_shadow.jpg",
+      "title_en": "Shadow",
+      "title_kr": "그림자",
+      "caption_short": "Shadow",
+      "alt_text_en": "Long autumn shadows falling across a leaf-strewn path",
+      "alt_text_kr": "낙엽 깔린 길에 길게 드리운 가을 그림자",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 5,
+      "place": "Gijachon Village III / 기자촌 III",
+      "year": "2024",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol28_Showcase_02_EP01.mp3",
+        "source": "vol28_10.mp3 32.94–49.42초",
+        "seconds": 16.4
+      },
+      "episode_en": "Episode 01 — Shadow",
+      "episode_kr": "이야기 01 — 그림자"
+    },
+    {
+      "scene": 3,
+      "scene_name": "산책",
+      "scene_name_en": "Walk",
+      "global_id": "KPE-V28-P012",
+      "image": "vol28_ep02_01_walk.jpg",
+      "title_en": "Walk",
+      "title_kr": "산책",
+      "caption_short": "Walk",
+      "alt_text_en": "A sunlit autumn grove with long shadows and a distant figure",
+      "alt_text_kr": "긴 그림자와 저편의 한 사람이 있는 햇빛 든 가을 숲",
+      "emotion_tags": "E06 애상",
+      "route_order": 9,
+      "place": "Gijachon Village III / 기자촌 III",
+      "year": "2024",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol28_Showcase_03_EP02.mp3",
+        "source": "vol28_11.mp3 32.28–50.12초",
+        "seconds": 16.4
+      },
+      "episode_en": "Episode 02 — Walk",
+      "episode_kr": "이야기 02 — 산책"
+    },
+    {
+      "scene": 4,
+      "scene_name": "바위",
+      "scene_name_en": "Rock",
+      "global_id": "KPE-V28-P018",
+      "image": "vol28_ep03_01_rock.jpg",
+      "title_en": "Rock",
+      "title_kr": "바위",
+      "caption_short": "Rock",
+      "alt_text_en": "A rock among autumn foliage on a wooded slope",
+      "alt_text_kr": "숲 비탈 단풍 사이의 바위",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 15,
+      "place": "Gijachon Village III / 기자촌 III",
+      "year": "2024",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol28_Showcase_04_EP03.mp3",
+        "source": "vol28_12.mp3 32.16–46.72초",
+        "seconds": 14.5
+      },
+      "episode_en": "Episode 03 — Rock",
+      "episode_kr": "이야기 03 — 바위"
+    },
+    {
+      "scene": 5,
+      "scene_name": "귀가",
+      "scene_name_en": "Returning Home",
+      "global_id": "KPE-V28-P023",
+      "image": "vol28_ep04_01_returninghome.jpg",
+      "title_en": "Returning Home",
+      "title_kr": "귀가",
+      "caption_short": "Returning Home",
+      "alt_text_en": "A person in red walking down a leaf-covered path in autumn",
+      "alt_text_kr": "가을, 낙엽 덮인 길을 내려가는 붉은 옷의 사람",
+      "emotion_tags": "E07 사색",
+      "route_order": 20,
+      "place": "Gijachon Village III / 기자촌 III",
+      "year": "2024",
+      "lat": 37.6342273,
+      "lng": 126.9334788,
+      "audio": {
+        "file": "KPE_Vol28_Showcase_05_EP04.mp3",
+        "source": "vol28_13.mp3 34.10–51.28초",
+        "seconds": 16.9
+      },
+      "episode_en": "Episode 04 — Returning Home",
+      "episode_kr": "이야기 04 — 귀가"
+    }
+  ]
+}

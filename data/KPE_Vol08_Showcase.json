@@ -1,0 +1,269 @@
+{
+  "series": "KPE Archive",
+  "volume": "08",
+  "title_en": "The Living and the Dead",
+  "title_kr": "산 자와 죽은 자",
+  "place_kr": "상림마을 · 폭포동",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol08_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V08-P004",
+      "image": "vol08_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A wooden insect hotel standing among dry winter reeds",
+      "alt_text_kr": "마른 겨울 갈대 사이에 선 나무 곤충호텔",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Sangnim · Pokpodong / 상림마을·폭포동",
+      "year": "2023",
+      "lat": 37.6451354,
+      "lng": 126.9272223,
+      "audio": {
+        "file": "KPE_Vol08_Showcase_01_Prelude.mp3",
+        "source": "vol08_03.mp3 (전체)",
+        "seconds": 128.6
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Sangnim Village & Pokpodong."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "상림마을과 폭포동을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Life & Death"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The Living and the Dead Sangnim Village · Pokpodong"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Morning light touches the valley."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Water moves over stone, breath lingers among trees."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "From village paths to quiet resting hills, life and death share one landscape."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "We pass through, yet leave traces behind."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Life, death, sunlight, flow."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Time moves gently—like water shaping stone."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "생사"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "산 자와 죽은 자, 상림마을 · 폭포동"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "아침 빛이 계곡을 적십니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "물은 바위를 타고 흐르고 숨결은 나무 사이에 머뭅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "마을 길에서 잠든 언덕에 이르기까지, 삶과 죽음은 하나의 풍경 안에 놓입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "우리는 지나가는 존재이면서도 흔적을 남깁니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "생과 사, 햇살과 흐름."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "시간은 물을 닮아 모든 것을 다듬어 갑니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Even in passing, we leave an indelible trace behind."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "산 자와 죽은 자의 길, 우리는 지나며 머문다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A wooden insect hotel standing among dry winter reeds"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "마른 겨울 갈대 사이에 선 나무 곤충호텔"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "생사",
+      "scene_name_en": "Life and Death",
+      "global_id": "KPE-V08-P008",
+      "image": "vol08_ep01_01_lifedeath.jpg",
+      "title_en": "Life and Death",
+      "title_kr": "생사",
+      "caption_short": "Life and Death",
+      "alt_text_en": "Pine cones lying among fallen needles on the forest floor",
+      "alt_text_kr": "솔잎 떨어진 숲 바닥에 놓인 솔방울들",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 5,
+      "place": "Sangnim · Pokpodong / 상림마을·폭포동",
+      "year": "2023",
+      "lat": 37.6451354,
+      "lng": 126.9272223,
+      "audio": {
+        "file": "KPE_Vol08_Showcase_02_EP01.mp3",
+        "source": "vol08_10.mp3 31.22–47.74초",
+        "seconds": 16.4
+      },
+      "episode_en": "Episode 01 — Life and Death",
+      "episode_kr": "이야기 01 — 생사"
+    },
+    {
+      "scene": 3,
+      "scene_name": "흔적",
+      "scene_name_en": "Traces",
+      "global_id": "KPE-V08-P014",
+      "image": "vol08_ep02_02_Traces2.jpg",
+      "title_en": "Traces 2",
+      "title_kr": "흔적 2",
+      "caption_short": "Traces 2",
+      "alt_text_en": "A stack of old tyres on a leaf-strewn slope",
+      "alt_text_kr": "낙엽 흩어진 비탈에 쌓인 낡은 타이어들",
+      "emotion_tags": "E02 여운",
+      "route_order": 11,
+      "place": "Sangnim · Pokpodong / 상림마을·폭포동",
+      "year": "2023",
+      "lat": 37.6451354,
+      "lng": 126.9272223,
+      "audio": {
+        "file": "KPE_Vol08_Showcase_03_EP02.mp3",
+        "source": "vol08_11.mp3 53.66–68.98초",
+        "seconds": 13.1
+      },
+      "episode_en": "Episode 02 — Traces",
+      "episode_kr": "이야기 02 — 흔적"
+    },
+    {
+      "scene": 4,
+      "scene_name": "햇살",
+      "scene_name_en": "Sunlight",
+      "global_id": "KPE-V08-P019",
+      "image": "vol08_ep03_01_Sunlight.jpg",
+      "title_en": "Sunlight",
+      "title_kr": "햇살",
+      "caption_short": "Sunlight",
+      "alt_text_en": "People resting on benches under a large tree in an autumn park",
+      "alt_text_kr": "가을 공원 큰 나무 아래 벤치에서 쉬는 사람들",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 16,
+      "place": "Sangnim · Pokpodong / 상림마을·폭포동",
+      "year": "2023",
+      "lat": 37.6451354,
+      "lng": 126.9272223,
+      "audio": {
+        "file": "KPE_Vol08_Showcase_04_EP03.mp3",
+        "source": "vol08_12.mp3 39.00–55.84초",
+        "seconds": 15.4
+      },
+      "episode_en": "Episode 03 — Sunlight",
+      "episode_kr": "이야기 03 — 햇살"
+    },
+    {
+      "scene": 5,
+      "scene_name": "생명",
+      "scene_name_en": "Lives",
+      "global_id": "KPE-V08-P024",
+      "image": "vol08_ep04_01_Lives.jpg",
+      "title_en": "Lives",
+      "title_kr": "생명",
+      "caption_short": "Lives",
+      "alt_text_en": "A mossy log glowing green in backlight",
+      "alt_text_kr": "역광에 초록빛으로 빛나는 이끼 낀 통나무",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 21,
+      "place": "Sangnim · Pokpodong / 상림마을·폭포동",
+      "year": "2023",
+      "lat": 37.6451354,
+      "lng": 126.9272223,
+      "audio": {
+        "file": "KPE_Vol08_Showcase_05_EP04.mp3",
+        "source": "vol08_13.mp3 31.30–46.90초",
+        "seconds": 14.0
+      },
+      "episode_en": "Episode 04 — Lives",
+      "episode_kr": "이야기 04 — 생명"
+    }
+  ]
+}

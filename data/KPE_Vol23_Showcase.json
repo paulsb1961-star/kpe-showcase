@@ -1,0 +1,219 @@
+{
+  "series": "KPE Archive",
+  "volume": "23",
+  "title_en": "Flowing into Dots of Rain",
+  "title_kr": "점이 되어 흐른다",
+  "place_kr": "가을비 · 계동, 북촌문화센터",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol23_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V23-P004",
+      "image": "vol23_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Raindrops running down a reed blind hung over the inner courtyard",
+      "alt_text_kr": "안마당에 드리워진 발을 타고 흐르는 빗방울",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Bukchon Cultural Center / 북촌문화센터",
+      "year": "2024",
+      "lat": 37.5790313,
+      "lng": 126.9864082,
+      "audio": {
+        "file": "KPE_Vol23_Showcase_01_Prelude.mp3",
+        "source": "vol23_03.mp3 (전체)",
+        "seconds": 110.6
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Bukchon Village."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "북촌을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Falling Dots"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Raindrops scatter, then unite."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Moments meet eternity, the individual overlaps with the universal."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Through a century-old hanok, time, history, and memory breathe together."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Only that which flows remains; only that which disappears is remembered."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Your life flows as a dot within someone’s memory."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "흩어지는 점"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "가을비가 흩어졌다 합쳐지듯, 순간과 영원이 만나고 개별과 보편이 겹칩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "100년 한옥 속에서 역사와 현재, 기억이 함께 숨 쉽니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "흐르는 것만이 남고 사라지는 것만이 기억됩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "당신의 삶도 누군가의 기억 속 점으로 흘러갑니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Scattered raindrops gather into a single stream of time."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "흩어진 빗방울이 하나의 시간으로 흐른다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Raindrops running down a reed blind hung over the inner courtyard"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "안마당에 드리워진 발을 타고 흐르는 빗방울"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "북촌",
+      "scene_name_en": "Bukchon",
+      "global_id": "KPE-V23-P008",
+      "image": "vol23_ep01_01_bukchoncentergate.jpg",
+      "title_en": "Gate",
+      "title_kr": "대문",
+      "caption_short": "Gate",
+      "alt_text_en": "The wooden gate and courtyard of the hanok cultural centre in the rain",
+      "alt_text_kr": "빗속 한옥문화센터의 나무 대문과 마당",
+      "emotion_tags": "E06 애상",
+      "route_order": 5,
+      "place": "Bukchon Cultural Center / 북촌문화센터",
+      "year": "2024",
+      "lat": 37.5790313,
+      "lng": 126.9864082,
+      "audio": {
+        "file": "KPE_Vol23_Showcase_02_EP01.mp3",
+        "source": "vol23_10.mp3 27.42–43.92초",
+        "seconds": 14.0
+      },
+      "episode_en": "Episode 01 — Bukchon",
+      "episode_kr": "이야기 01 — 북촌"
+    },
+    {
+      "scene": 3,
+      "scene_name": "여인",
+      "scene_name_en": "Woman",
+      "global_id": "KPE-V23-P016",
+      "image": "vol23_ep02_01_womanredumbrella.jpg",
+      "title_en": "Woman with a Red Umbrella",
+      "title_kr": "빨간 우산 여인",
+      "caption_short": "Woman with a Red Umbrella",
+      "alt_text_en": "A woman with a red umbrella in the hanok courtyard",
+      "alt_text_kr": "한옥 마당의 붉은 우산을 든 여인",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 13,
+      "place": "Bukchon Cultural Center / 북촌문화센터",
+      "year": "2024",
+      "lat": 37.5790313,
+      "lng": 126.9864082,
+      "audio": {
+        "file": "KPE_Vol23_Showcase_03_EP02.mp3",
+        "source": "vol23_11.mp3 28.50–43.02초",
+        "seconds": 12.0
+      },
+      "episode_en": "Episode 02 — Woman",
+      "episode_kr": "이야기 02 — 여인"
+    },
+    {
+      "scene": 4,
+      "scene_name": "가을비",
+      "scene_name_en": "Autumn Rain",
+      "global_id": "KPE-V23-P022",
+      "image": "vol23_ep03_02_raindropsbamboo.jpg",
+      "title_en": "Raindrops on Bamboo",
+      "title_kr": "대나무 빗방울",
+      "caption_short": "Raindrops on Bamboo",
+      "alt_text_en": "Raindrops on green bamboo leaves",
+      "alt_text_kr": "푸른 대나무 잎에 맺힌 빗방울",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 19,
+      "place": "Bukchon Cultural Center / 북촌문화센터",
+      "year": "2024",
+      "lat": 37.5790313,
+      "lng": 126.9864082,
+      "audio": {
+        "file": "KPE_Vol23_Showcase_04_EP03.mp3",
+        "source": "vol23_12.mp3 40.68–54.82초",
+        "seconds": 11.6
+      },
+      "episode_en": "Episode 03 — Autumn Rain",
+      "episode_kr": "이야기 03 — 가을비"
+    }
+  ]
+}

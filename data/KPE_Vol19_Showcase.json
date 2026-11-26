@@ -1,0 +1,259 @@
+{
+  "series": "KPE Archive",
+  "volume": "19",
+  "title_en": "Slow Sunlight and Shadows",
+  "title_kr": "느린 햇살 그림자",
+  "place_kr": "한옥박물관",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol19_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V19-P004",
+      "image": "vol19_overture_img.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A hanok pavilion silhouetted against a mauve dusk sky",
+      "alt_text_kr": "보랏빛 저물녘 하늘을 배경으로 실루엣진 한옥 정자",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2024",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol19_Showcase_01_Prelude.mp3",
+        "source": "vol19_03.mp3 (전체)",
+        "seconds": 117.2
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Hanok Museum."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한옥박물관을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Quiet Light"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Late afternoon light brushes a quiet pavilion."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Shortened shadows lengthen toward dusk, changing—yet remaining."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "What have we passed by?"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Does history live only inside walls?"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“Now, yet not now; then, yet not then.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Like slow sunlight, these shadows linger—forming another layer within us."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "느린 햇살"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "늦은 오후, 느린 햇살이 정자를 스칩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "짧은 그림자가 해질녘으로 길어지며 변화 속에 머뭅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "우리는 무엇을 지나쳐왔을까요."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "역사는 벽 안에만 있을까요."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“지금이면서 지금이 아니고, 그때이면서도 그때가 아닌.”"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "사라지는 듯한 빛과 그림자는 우리 안에 남아 또 하나의 시간을 이룹니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Light and shadow weave together past and present."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "빛과 그림자가 과거와 현재를 이어준다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A hanok pavilion silhouetted against a mauve dusk sky"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "보랏빛 저물녘 하늘을 배경으로 실루엣진 한옥 정자"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "용출정",
+      "scene_name_en": "Yongchuljeong",
+      "global_id": "KPE-V19-P008",
+      "image": "vol19_ep01_01_roof.jpg",
+      "title_en": "Roof",
+      "title_kr": "용출정 지붕",
+      "caption_short": "Roof",
+      "alt_text_en": "A hanok tiled roof against a dark forest",
+      "alt_text_kr": "어두운 숲을 배경으로 한 한옥 기와 지붕",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2024",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol19_Showcase_02_EP01.mp3",
+        "source": "vol19_10.mp3 29.68–45.30초",
+        "seconds": 13.0
+      },
+      "episode_en": "Episode 01 — Yongchuljeong",
+      "episode_kr": "이야기 01 — 용출정"
+    },
+    {
+      "scene": 3,
+      "scene_name": "느린 햇살",
+      "scene_name_en": "Slow Sunlight",
+      "global_id": "KPE-V19-P013",
+      "image": "vol19_ep02_01_sunlight.jpg",
+      "title_en": "Sunlight",
+      "title_kr": "햇살",
+      "caption_short": "Sunlight",
+      "alt_text_en": "Sunlit yellow panels above dark brick steps and a railing",
+      "alt_text_kr": "어두운 벽돌 계단과 난간 위 햇빛 든 노란 패널",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 10,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2024",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol19_Showcase_03_EP02.mp3",
+        "source": "vol19_11.mp3 28.72–45.64초",
+        "seconds": 15.9
+      },
+      "episode_en": "Episode 02 — Slow Sunlight",
+      "episode_kr": "이야기 02 — 느린 햇살"
+    },
+    {
+      "scene": 4,
+      "scene_name": "그림자",
+      "scene_name_en": "Shadows",
+      "global_id": "KPE-V19-P019",
+      "image": "vol19_ep03_01_shadow.jpg",
+      "title_en": "Shadow",
+      "title_kr": "그림자",
+      "caption_short": "Shadow",
+      "alt_text_en": "Vertical shadow bars falling across a yellow wall",
+      "alt_text_kr": "노란 벽에 드리운 세로 그림자 줄무늬",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 16,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2024",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol19_Showcase_04_EP03.mp3",
+        "source": "vol19_12.mp3 28.34–43.50초",
+        "seconds": 12.7
+      },
+      "episode_en": "Episode 03 — Shadows",
+      "episode_kr": "이야기 03 — 그림자"
+    },
+    {
+      "scene": 5,
+      "scene_name": "구름",
+      "scene_name_en": "Clouds",
+      "global_id": "KPE-V19-P024",
+      "image": "vol19_ep04_01_observationdeck.jpg",
+      "title_en": "Observation Deck",
+      "title_kr": "전망대",
+      "caption_short": "Observation Deck",
+      "alt_text_en": "The roof and railing of an observation deck",
+      "alt_text_kr": "전망대의 지붕과 난간",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 21,
+      "place": "Eunpyeong Hanok Village / 은평한옥마을",
+      "year": "2024",
+      "lat": 37.6413191,
+      "lng": 126.939204,
+      "audio": {
+        "file": "KPE_Vol19_Showcase_05_EP04.mp3",
+        "source": "vol19_13.mp3 29.84–43.58초",
+        "seconds": 12.1
+      },
+      "episode_en": "Episode 04 — Clouds",
+      "episode_kr": "이야기 04 — 구름"
+    }
+  ]
+}

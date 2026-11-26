@@ -1,0 +1,254 @@
+{
+  "series": "KPE Archive",
+  "volume": "07",
+  "title_en": "Where Flowers Come and Go",
+  "title_kr": "꽃이 오고 단풍 가던",
+  "place_kr": "기자촌 II · 우물골",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol07_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V07-P004",
+      "image": "vol07_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "An autumn path bordered by a wooden fence, leaves turning gold",
+      "alt_text_kr": "나무 울타리를 두른 가을 길, 금빛으로 물드는 잎들",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Gijachon II & Umulgol / 기자촌 2",
+      "year": "2023",
+      "lat": 37.6362011,
+      "lng": 126.9316705,
+      "audio": {
+        "file": "KPE_Vol07_Showcase_01_Prelude.mp3",
+        "source": "vol07_03.mp3 (전체)",
+        "seconds": 122.5
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Gijachon & Umulgol."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기자촌과 우물골을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Seasons"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Two villages once held by seasons."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Flowers arrived, leaves departed, and families lived between those turns."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Now the houses are gone, the fields transformed."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Yet trees remain in silence, and water continues to flow."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Now, yet not now; then, yet not then."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In an age of renewal, what disappears—and what does time choose to keep?"
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "계절"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "계절이 머물던 두 마을."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "꽃이 오고, 단풍이 가며 사람들은 그 사이를 살았습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "집은 사라지고 땅은 달라졌지만, 나무는 말없이 서 있고 물은 여전히 흐릅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "지금이면서도 지금이 아니고, 그때이면서도 그때가 아닌 시간."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "도시의 변화 속에서 무엇이 사라지고 무엇이 남는가."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Though landscapes shift, our seasons gather layer by layer."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "풍경은 사라지고 이름은 남는다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "An autumn path bordered by a wooden fence, leaves turning gold"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "나무 울타리를 두른 가을 길, 금빛으로 물드는 잎들"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "꽃이 오고",
+      "scene_name_en": "Flowers Came",
+      "global_id": "KPE-V07-P008",
+      "image": "vol07_ep01_01_came.jpg",
+      "title_en": "Came",
+      "title_kr": "오다",
+      "caption_short": "Came",
+      "alt_text_en": "A broad expanse of grass with apartments and low hills beyond",
+      "alt_text_kr": "저편에 아파트와 낮은 산이 보이는 너른 풀숲",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 5,
+      "place": "Gijachon II & Umulgol / 기자촌 2",
+      "year": "2023",
+      "lat": 37.6362011,
+      "lng": 126.9316705,
+      "audio": {
+        "file": "KPE_Vol07_Showcase_02_EP01.mp3",
+        "source": "vol07_10.mp3 38.32–55.22초",
+        "seconds": 16.5
+      },
+      "episode_en": "Episode 01 — Flowers Came",
+      "episode_kr": "이야기 01 — 꽃이 오고"
+    },
+    {
+      "scene": 3,
+      "scene_name": "단풍 가던",
+      "scene_name_en": "Maples Went",
+      "global_id": "KPE-V07-P013",
+      "image": "vol07_ep02_02_went2.jpg",
+      "title_en": "Went 2",
+      "title_kr": "가다 2",
+      "caption_short": "Went 2",
+      "alt_text_en": "The sun low at sunset, silhouetted foliage against an orange sky",
+      "alt_text_kr": "주황 하늘을 배경으로 실루엣진 나뭇잎, 낮게 걸린 노을 해",
+      "emotion_tags": "E06 애상",
+      "route_order": 10,
+      "place": "Gijachon II & Umulgol / 기자촌 2",
+      "year": "2023",
+      "lat": 37.6362011,
+      "lng": 126.9316705,
+      "audio": {
+        "file": "KPE_Vol07_Showcase_03_EP02.mp3",
+        "source": "vol07_11.mp3 64.52–83.56초",
+        "seconds": 16.4
+      },
+      "episode_en": "Episode 02 — Maples Went",
+      "episode_kr": "이야기 02 — 단풍 가던"
+    },
+    {
+      "scene": 4,
+      "scene_name": "마을",
+      "scene_name_en": "The Village",
+      "global_id": "KPE-V07-P017",
+      "image": "vol07_ep03_01_village.jpg",
+      "title_en": "Village",
+      "title_kr": "마을",
+      "caption_short": "The Village",
+      "alt_text_en": "Two people walking a path lined with golden metasequoia trees",
+      "alt_text_kr": "노란 메타세쿼이아가 늘어선 길을 지나는 두 사람",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 14,
+      "place": "Gijachon II & Umulgol / 기자촌 2",
+      "year": "2023",
+      "lat": 37.6362011,
+      "lng": 126.9316705,
+      "audio": {
+        "file": "KPE_Vol07_Showcase_04_EP03.mp3",
+        "source": "vol07_12.mp3 35.94–52.58초",
+        "seconds": 14.1
+      },
+      "episode_en": "Episode 03 — The Village",
+      "episode_kr": "이야기 03 — 마을"
+    },
+    {
+      "scene": 5,
+      "scene_name": "사람들",
+      "scene_name_en": "People",
+      "global_id": "KPE-V07-P023",
+      "image": "vol07_ep04_02_People2.jpg",
+      "title_en": "People 2",
+      "title_kr": "사람들 2",
+      "caption_short": "People 2",
+      "alt_text_en": "Three people seated on a bench under autumn trees, seen past a trunk",
+      "alt_text_kr": "나무 줄기 너머, 단풍 아래 벤치에 앉은 세 사람",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 20,
+      "place": "Gijachon II & Umulgol / 기자촌 2",
+      "year": "2023",
+      "lat": 37.6362011,
+      "lng": 126.9316705,
+      "audio": {
+        "file": "KPE_Vol07_Showcase_05_EP04.mp3",
+        "source": "vol07_13.mp3 55.02–72.66초",
+        "seconds": 15.1
+      },
+      "episode_en": "Episode 04 — People",
+      "episode_kr": "이야기 04 — 사람들"
+    }
+  ]
+}

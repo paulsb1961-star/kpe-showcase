@@ -1,0 +1,249 @@
+{
+  "series": "KPE Archive",
+  "volume": "02",
+  "title_en": "Rainfall in the Secret Garden",
+  "title_kr": "비 내리는 후원",
+  "place_kr": "창덕궁 II",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol02_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V02-P004",
+      "image": "vol02_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Autumn trees over a rain-soaked garden path in the Secret Garden of Changdeokgung",
+      "alt_text_kr": "비에 젖은 창덕궁 후원 오솔길 위로 드리운 단풍 나무",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 1,
+      "place": "Changdeokgung Palace II / 창덕궁 2",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol02_Showcase_01_Prelude.mp3",
+        "source": "vol02_03.mp3 (전체)",
+        "seconds": 125.0
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Changdeokgung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "창덕궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Rain in the Garden"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Autumn rain settles over the Secret Garden."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Eaves darken, tiles gleam, and ponds receive the falling sky."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Raindrops gather at Buyongjeong, trace the roof of Yeongyeongdang, and ripple across Aeryeonji where mallards drift."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "In rain, the garden is neither wholly present nor past."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Time overlaps in quiet layers, and nature and design breathe as one."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "후원의 비"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "가을비가 후원 위에 내려앉습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "처마는 짙어지고 기와는 빛나며, 연못은 하늘을 받아들입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "부용정 끝의 빗방울, 연경당 지붕을 타는 물길, 애련지의 잔물결과 고요히 흐르는 오리들."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "비 속의 후원은 지금이면서도 지금이 아니고, 과거이면서도 머물지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "겹겹의 시간 속에서 자연과 건축은 함께 숨 쉽니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Where five hundred years of rain still echo, past and present intertwine."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "오백 년의 비, 과거와 현재가 함께 숨 쉰다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Autumn trees over a rain-soaked garden path in the Secret Garden of Changdeokgung"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "비에 젖은 창덕궁 후원 오솔길 위로 드리운 단풍 나무"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "소나기",
+      "scene_name_en": "Sudden Shower",
+      "global_id": "KPE-V02-P008",
+      "image": "vol02_ep01_01_showerbuyongjeong.jpg",
+      "title_en": "Shower Buyongjeong",
+      "title_kr": "소나기",
+      "caption_short": "Shower Buyongjeong",
+      "alt_text_en": "Buyongji pond in the rain, Buyongjeong pavilion and autumn trees through the falling rain",
+      "alt_text_kr": "비 내리는 부용지, 빗줄기 사이로 부용정과 단풍 나무",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Changdeokgung Palace II / 창덕궁 2",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol02_Showcase_02_EP01.mp3",
+        "source": "vol02_10.mp3 35.06–53.88초",
+        "seconds": 17.7
+      },
+      "episode_en": "Episode 01 — Sudden Shower",
+      "episode_kr": "이야기 01 — 소나기"
+    },
+    {
+      "scene": 3,
+      "scene_name": "빗줄기",
+      "scene_name_en": "Rainfall",
+      "global_id": "KPE-V02-P014",
+      "image": "vol02_ep02_01_soakedpond.jpg",
+      "title_en": "Soaked Pond",
+      "title_kr": "비오는 연못",
+      "caption_short": "Soaked Pond",
+      "alt_text_en": "Raindrops dimpling a pond thick with lotus leaves",
+      "alt_text_kr": "연잎이 무성한 연못 수면에 방울지는 빗방울",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 11,
+      "place": "Changdeokgung Palace II / 창덕궁 2",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol02_Showcase_03_EP02.mp3",
+        "source": "vol02_11.mp3 33.82–49.78초",
+        "seconds": 14.8
+      },
+      "episode_en": "Episode 02 — Rainfall",
+      "episode_kr": "이야기 02 — 빗줄기"
+    },
+    {
+      "scene": 4,
+      "scene_name": "처마",
+      "scene_name_en": "Eaves",
+      "global_id": "KPE-V02-P019",
+      "image": "vol02_ep03_01_flowingsteps.jpg",
+      "title_en": "Flowing Steps",
+      "title_kr": "흐르는 계단",
+      "caption_short": "Flowing Steps",
+      "alt_text_en": "A long flight of wet stone steps rising through green trees in the rain",
+      "alt_text_kr": "빗속 초록 나무 사이로 이어진 젖은 돌계단",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 16,
+      "place": "Changdeokgung Palace II / 창덕궁 2",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol02_Showcase_04_EP03.mp3",
+        "source": "vol02_12.mp3 33.78–50.30초",
+        "seconds": 16.6
+      },
+      "episode_en": "Episode 03 — Eaves",
+      "episode_kr": "이야기 03 — 처마"
+    },
+    {
+      "scene": 5,
+      "scene_name": "마당",
+      "scene_name_en": "Courtyard",
+      "global_id": "KPE-V02-P026",
+      "image": "vol02_ep04_01_manumbrella.jpg",
+      "title_en": "Man Umbrella",
+      "title_kr": "우산 쓴 남자",
+      "caption_short": "Man Umbrella",
+      "alt_text_en": "A lone figure with an umbrella standing in a rainy courtyard beyond a thick branch",
+      "alt_text_kr": "굵은 가지 너머 빗속 뜰에 홀로 선 우산 든 한 사람",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 23,
+      "place": "Changdeokgung Palace II / 창덕궁 2",
+      "year": "2024",
+      "lat": 37.5794309,
+      "lng": 126.9910426,
+      "audio": {
+        "file": "KPE_Vol02_Showcase_05_EP04.mp3",
+        "source": "vol02_13.mp3 33.20–52.16초",
+        "seconds": 17.2
+      },
+      "episode_en": "Episode 04 — Courtyard",
+      "episode_kr": "이야기 04 — 마당"
+    }
+  ]
+}

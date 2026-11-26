@@ -1,0 +1,234 @@
+{
+  "series": "KPE Archive",
+  "volume": "24",
+  "title_en": "Where the Echoes Went",
+  "title_kr": "함성은 어디로",
+  "place_kr": "아이들 · 용산",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol24_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V24-P004",
+      "image": "vol24_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "Silhouettes of children playing on the observation deck against a blue sky, N Seoul Tower beyond",
+      "alt_text_kr": "파란 하늘, 저편에 남산타워를 두고 전망대에서 노는 아이들의 실루엣",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Yongsan / 용산",
+      "year": "2024",
+      "lat": 37.5211389,
+      "lng": 126.9839378,
+      "audio": {
+        "file": "KPE_Vol24_Showcase_01_Prelude.mp3",
+        "source": "vol24_03.mp3 (전체)",
+        "seconds": 104.0
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set at the National Museum of Korea in Yongsan."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "용산 국립중앙박물관을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Voices Rising"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Under blue skies, children cry for freedom."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Their gestures rise as hope amid history and authority."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A single photograph transforms the fleeting present into the universal."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Hope endures where innocence meets power."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "피어나는 함성"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "파란 하늘 아래, 아이들의 자유와 희망이 역사와 권력 속에서 피어납니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "한 장의 사진이 순간을 넘어 보편적 의미가 됩니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "순수함과 권력이 겹치는 곳에서 희망의 흔적을 찾습니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Even beneath shadows, the voices of children bloom into hope."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "아이들의 함성은 희망으로 피어난다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Silhouettes of children playing on the observation deck against a blue sky, N Seoul Tower beyond"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "파란 하늘, 저편에 남산타워를 두고 전망대에서 노는 아이들의 실루엣"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "아이들",
+      "scene_name_en": "Children",
+      "global_id": "KPE-V24-P008",
+      "image": "vol24_ep01_01_children.jpg",
+      "title_en": "Children",
+      "title_kr": "아이들",
+      "caption_short": "Children",
+      "alt_text_en": "N Seoul Tower on the hill beyond the observation deck, children silhouetted",
+      "alt_text_kr": "전망대 너머 언덕의 남산타워, 실루엣진 아이들",
+      "emotion_tags": "E04 생동",
+      "route_order": 5,
+      "place": "Yongsan / 용산",
+      "year": "2024",
+      "lat": 37.5211389,
+      "lng": 126.9839378,
+      "audio": {
+        "file": "KPE_Vol24_Showcase_02_EP01.mp3",
+        "source": "vol24_10.mp3 30.00–48.14초",
+        "seconds": 15.5
+      },
+      "episode_en": "Episode 01 — Children",
+      "episode_kr": "이야기 01 — 아이들"
+    },
+    {
+      "scene": 3,
+      "scene_name": "배경",
+      "scene_name_en": "Background",
+      "global_id": "KPE-V24-P013",
+      "image": "vol24_ep02_01_children5.jpg",
+      "title_en": "Children 5",
+      "title_kr": "아이들 5",
+      "caption_short": "Children 5",
+      "alt_text_en": "Silhouettes of children gathered on the observation deck with N Seoul Tower behind",
+      "alt_text_kr": "뒤에 남산타워를 두고 전망대에 모인 아이들의 실루엣",
+      "emotion_tags": "E04 생동",
+      "route_order": 10,
+      "place": "Yongsan / 용산",
+      "year": "2024",
+      "lat": 37.5211389,
+      "lng": 126.9839378,
+      "audio": {
+        "file": "KPE_Vol24_Showcase_03_EP02.mp3",
+        "source": "vol24_11.mp3 30.50–48.70초",
+        "seconds": 15.6
+      },
+      "episode_en": "Episode 02 — Background",
+      "episode_kr": "이야기 02 — 배경"
+    },
+    {
+      "scene": 4,
+      "scene_name": "순간",
+      "scene_name_en": "Moment",
+      "global_id": "KPE-V24-P018",
+      "image": "vol24_ep03_01_children9.jpg",
+      "title_en": "Children 9",
+      "title_kr": "아이들 9",
+      "caption_short": "Children 9",
+      "alt_text_en": "Silhouettes of children linking hands on the observation deck",
+      "alt_text_kr": "전망대에서 손을 맞잡은 아이들의 실루엣",
+      "emotion_tags": "E04 생동",
+      "route_order": 15,
+      "place": "Yongsan / 용산",
+      "year": "2024",
+      "lat": 37.5211389,
+      "lng": 126.9839378,
+      "audio": {
+        "file": "KPE_Vol24_Showcase_04_EP03.mp3",
+        "source": "vol24_12.mp3 31.54–47.32초",
+        "seconds": 13.4
+      },
+      "episode_en": "Episode 03 — Moment",
+      "episode_kr": "이야기 03 — 순간"
+    },
+    {
+      "scene": 5,
+      "scene_name": "울림",
+      "scene_name_en": "Echo",
+      "global_id": "KPE-V24-P024",
+      "image": "vol24_ep04_01_children14.jpg",
+      "title_en": "Children 14",
+      "title_kr": "아이들 14",
+      "caption_short": "Children 14",
+      "alt_text_en": "Silhouettes of three children posing on the observation deck",
+      "alt_text_kr": "전망대에서 포즈를 취한 세 아이의 실루엣",
+      "emotion_tags": "E04 생동",
+      "route_order": 21,
+      "place": "Yongsan / 용산",
+      "year": "2024",
+      "lat": 37.5211389,
+      "lng": 126.9839378,
+      "audio": {
+        "file": "KPE_Vol24_Showcase_05_EP04.mp3",
+        "source": "vol24_13.mp3 28.46–44.26초",
+        "seconds": 13.7
+      },
+      "episode_en": "Episode 04 — Echo",
+      "episode_kr": "이야기 04 — 울림"
+    }
+  ]
+}

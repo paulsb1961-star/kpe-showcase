@@ -1,0 +1,274 @@
+{
+  "series": "KPE Archive",
+  "volume": "03",
+  "title_en": "Flowing Time",
+  "title_kr": "흐르는 시간",
+  "place_kr": "경복궁",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol03_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V03-P004",
+      "image": "vol03_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "People in hanbok coming and going across the Gyeongbokgung courtyard, mountains rising behind",
+      "alt_text_kr": "뒤로 산이 솟은 경복궁 마당을 오가는 한복 입은 사람들",
+      "emotion_tags": "E07 사색",
+      "route_order": 1,
+      "place": "Gyeongbokgung Palace / 경복궁",
+      "year": "2024",
+      "lat": 37.579617,
+      "lng": 126.977041,
+      "audio": {
+        "file": "KPE_Vol03_Showcase_01_Prelude.mp3",
+        "source": "vol03_03.mp3 (전체)",
+        "seconds": 139.5
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Gyeongbokgung Palace."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "경복궁을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Flowing Time"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "The principal palace of the dynasty, Gyeongbokgung holds six centuries of passing time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Founded in 1395, burned, broken, restored—its memory does not remain still."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Even what endures continues to flow."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Wind, shadow, story."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "War fades like smoke and returns in quiet light."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Where does the pond’s reflection linger—between past and present?"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a record of buildings, but a meditation on memory and renewal."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "흐르는 시간"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "조선의 법궁, 경복궁."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "그곳에는 600년의 시간이 흐릅니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "1395년의 창건, 전란과 상실, 그리고 이어지는 복원."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "머문 듯 보이는 기억도 멈추지 않고 흘러갑니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "바람, 그림자, 이야기."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연기처럼 흩어진 역사는 다시 빛 속으로 돌아옵니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "연못의 그림자는 과거와 현재 사이 어디쯤에 머물러 있을까요."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 건물의 기록이 아니라, 기억과 회복에 대한 명상입니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Shadows of memory rest quietly between the layers of time."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "오백 년의 그림자, 기억 사이에 머문다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "People in hanbok coming and going across the Gyeongbokgung courtyard, mountains rising behind"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "뒤로 산이 솟은 경복궁 마당을 오가는 한복 입은 사람들"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "바람",
+      "scene_name_en": "Wind",
+      "global_id": "KPE-V03-P008",
+      "image": "vol03_ep01_01_visitors.jpg",
+      "title_en": "Visitors",
+      "title_kr": "방문객",
+      "caption_short": "Visitors",
+      "alt_text_en": "Two people leaning on a high stone wall beneath the painted eaves of Geunjeongjeon",
+      "alt_text_kr": "근정전의 단청 처마 아래 높은 돌벽에 기대 선 두 사람",
+      "emotion_tags": "E04 생동",
+      "route_order": 5,
+      "place": "Gyeongbokgung Palace / 경복궁",
+      "year": "2024",
+      "lat": 37.579617,
+      "lng": 126.977041,
+      "audio": {
+        "file": "KPE_Vol03_Showcase_02_EP01.mp3",
+        "source": "vol03_10.mp3 36.26–51.40초",
+        "seconds": 13.5
+      },
+      "episode_en": "Episode 01 — Wind",
+      "episode_kr": "이야기 01 — 바람"
+    },
+    {
+      "scene": 3,
+      "scene_name": "기억",
+      "scene_name_en": "Memory",
+      "global_id": "KPE-V03-P015",
+      "image": "vol03_ep02_02_childwoman.jpg",
+      "title_en": "Child Woman",
+      "title_kr": "아이와 여인",
+      "caption_short": "Child and Woman",
+      "alt_text_en": "Small figures, one in hanbok, on a bright stone plaza before a palace hall",
+      "alt_text_kr": "전각 앞 밝은 박석 마당의 작은 인영들, 한복 입은 이도 있다",
+      "emotion_tags": "E02 여운 · E04 생동",
+      "route_order": 12,
+      "place": "Gyeongbokgung Palace / 경복궁",
+      "year": "2024",
+      "lat": 37.579617,
+      "lng": 126.977041,
+      "audio": {
+        "file": "KPE_Vol03_Showcase_03_EP02.mp3",
+        "source": "vol03_11.mp3 55.70–75.18초",
+        "seconds": 18.8
+      },
+      "episode_en": "Episode 02 — Memory",
+      "episode_kr": "이야기 02 — 기억"
+    },
+    {
+      "scene": 4,
+      "scene_name": "사연",
+      "scene_name_en": "Tale",
+      "global_id": "KPE-V03-P020",
+      "image": "vol03_ep03_01_returning.jpg",
+      "title_en": "Returning",
+      "title_kr": "돌아옴",
+      "caption_short": "Returning",
+      "alt_text_en": "A soft-focus blur of green garden and light",
+      "alt_text_kr": "초록 정원과 빛이 부드럽게 번진 흐릿한 장면",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 17,
+      "place": "Gyeongbokgung Palace / 경복궁",
+      "year": "2024",
+      "lat": 37.579617,
+      "lng": 126.977041,
+      "audio": {
+        "file": "KPE_Vol03_Showcase_04_EP03.mp3",
+        "source": "vol03_12.mp3 36.58–52.50초",
+        "seconds": 15.8
+      },
+      "episode_en": "Episode 03 — Tale",
+      "episode_kr": "이야기 03 — 사연"
+    },
+    {
+      "scene": 5,
+      "scene_name": "그림자",
+      "scene_name_en": "Shadow",
+      "global_id": "KPE-V03-P026",
+      "image": "vol03_ep04_01_recomposition.jpg",
+      "title_en": "Recomposition",
+      "title_kr": "재구성",
+      "caption_short": "Recomposition",
+      "alt_text_en": "Close-up of an ornate painted roof end with a figured roof ornament",
+      "alt_text_kr": "화려한 단청 지붕 끝의 근접 사진",
+      "emotion_tags": "E07 사색 · E02 여운",
+      "route_order": 23,
+      "place": "Gyeongbokgung Palace / 경복궁",
+      "year": "2024",
+      "lat": 37.579617,
+      "lng": 126.977041,
+      "audio": {
+        "file": "KPE_Vol03_Showcase_05_EP04.mp3",
+        "source": "vol03_13.mp3 35.46–51.66초",
+        "seconds": 15.5
+      },
+      "episode_en": "Episode 04 — Shadow",
+      "episode_kr": "이야기 04 — 그림자"
+    }
+  ]
+}

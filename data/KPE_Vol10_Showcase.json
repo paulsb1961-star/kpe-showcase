@@ -1,0 +1,269 @@
+{
+  "series": "KPE Archive",
+  "volume": "10",
+  "title_en": "Beyond the Forested Railway",
+  "title_kr": "철길 숲속 저편에서",
+  "place_kr": "공릉천 · 동산동",
+  "author": "Hong Sahn",
+  "publisher": "HongSahn Media",
+  "copyright": "© 2026 HongSahn Media",
+  "buy_link": "https://amazon.com/author/hongsahn",
+  "source": "통합 마스터 v41 (2026-11-26) · KPE_Vol10_ENKR_Overlay_FXL",
+  "scenes": [
+    {
+      "scene": 1,
+      "scene_name": "서시",
+      "scene_name_en": "Prelude",
+      "global_id": "KPE-V10-P004",
+      "image": "vol10_overture_img1.jpg",
+      "title_en": "Prelude",
+      "title_kr": "서시",
+      "caption_short": "Overture Image",
+      "alt_text_en": "A disused railway track receding among fallen leaves",
+      "alt_text_kr": "낙엽 사이로 멀어지는 폐선로",
+      "emotion_tags": "E01 적막 · E07 사색",
+      "route_order": 1,
+      "place": "Gongneung Stream / 공릉천",
+      "year": "2023",
+      "lat": 37.6742699,
+      "lng": 126.8824758,
+      "audio": {
+        "file": "KPE_Vol10_Showcase_01_Prelude.mp3",
+        "source": "vol10_03.mp3 (전체)",
+        "seconds": 127.9
+      },
+      "transcript": [
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A quiet photographic meditation set in Gongneungcheon & Dongsan-dong."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "This is not a guide to Korea."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "It is a way of feeling it."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "공릉천과 동산동을 배경으로 한 조용한 사진 명상입니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "이 책은 설명하지 않습니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "대신 한국의 시간과 풍경 속에 잠시 머물도록 초대합니다."
+        },
+        {
+          "lang": "en",
+          "head": true,
+          "text": "Beyond Life"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Beyond the Forested Railway Gongneungcheon · Dongsan-dong"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Walking toward death, one encounters life."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Along the stream, ordinary tenderness appears unexpectedly."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "“To look for death and return having seen life.”"
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A window once clouded is now seen from outside, quiet and clear."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Memory, heart, time."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Loss softens into gratitude, and life continues beyond the forested tracks."
+        },
+        {
+          "lang": "ko",
+          "head": true,
+          "text": "삶 너머"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "철길 숲속 저편에서, 공릉천 · 동산동"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "죽음을 향해 걷던 길에서 삶을 마주합니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "개울가의 일상은 뜻밖의 다정함으로 다가옵니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "“죽음을 보러 가서 삶을 보고 돌아옵니다.”"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "혼란 속에 바라보던 창문을 이제는 밖에서 고요히 마주합니다."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "기억과 마음, 시간."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "상실은 감사로 스미고 삶은 철길 숲 너머로 이어집니다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "Seeking death, I discovered the vibrant pulse of life."
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "죽음을 보러 갔다가 삶을 마주한다."
+        },
+        {
+          "lang": "en",
+          "head": false,
+          "text": "A disused railway track receding among fallen leaves"
+        },
+        {
+          "lang": "ko",
+          "head": false,
+          "text": "낙엽 사이로 멀어지는 폐선로"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "scene_name": "기억",
+      "scene_name_en": "Memory",
+      "global_id": "KPE-V10-P008",
+      "image": "vol10_ep01_01_Memory.jpg",
+      "title_en": "Memory",
+      "title_kr": "기억",
+      "caption_short": "Memory",
+      "alt_text_en": "A close view of a black mesh fence",
+      "alt_text_kr": "검은 그물망 울타리를 가까이에서 본 모습",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 5,
+      "place": "Gongneung Stream / 공릉천",
+      "year": "2023",
+      "lat": 37.6742699,
+      "lng": 126.8824758,
+      "audio": {
+        "file": "KPE_Vol10_Showcase_02_EP01.mp3",
+        "source": "vol10_10.mp3 28.82–43.44초",
+        "seconds": 12.0
+      },
+      "episode_en": "Episode 01 — Memory",
+      "episode_kr": "이야기 01 — 기억"
+    },
+    {
+      "scene": 3,
+      "scene_name": "마음",
+      "scene_name_en": "Heart",
+      "global_id": "KPE-V10-P013",
+      "image": "vol10_ep02_01_Heart.jpg",
+      "title_en": "Heart",
+      "title_kr": "마음",
+      "caption_short": "Heart",
+      "alt_text_en": "Two people walking along a stony stream bank",
+      "alt_text_kr": "징검다리 냇가를 걷는 두 사람",
+      "emotion_tags": "E07 사색",
+      "route_order": 10,
+      "place": "Gongneung Stream / 공릉천",
+      "year": "2023",
+      "lat": 37.6742699,
+      "lng": 126.8824758,
+      "audio": {
+        "file": "KPE_Vol10_Showcase_03_EP02.mp3",
+        "source": "vol10_11.mp3 31.16–45.26초",
+        "seconds": 11.5
+      },
+      "episode_en": "Episode 02 — Heart",
+      "episode_kr": "이야기 02 — 마음"
+    },
+    {
+      "scene": 4,
+      "scene_name": "창문",
+      "scene_name_en": "Window",
+      "global_id": "KPE-V10-P018",
+      "image": "vol10_ep03_01_Window.jpg",
+      "title_en": "Window",
+      "title_kr": "창문",
+      "caption_short": "Window",
+      "alt_text_en": "A narrow street between buildings at dusk",
+      "alt_text_kr": "저녁 무렵 건물 사이 좁은 골목",
+      "emotion_tags": "E07 사색 · E01 적막",
+      "route_order": 15,
+      "place": "Gongneung Stream / 공릉천",
+      "year": "2023",
+      "lat": 37.6742699,
+      "lng": 126.8824758,
+      "audio": {
+        "file": "KPE_Vol10_Showcase_04_EP03.mp3",
+        "source": "vol10_12.mp3 30.60–45.54초",
+        "seconds": 12.4
+      },
+      "episode_en": "Episode 03 — Window",
+      "episode_kr": "이야기 03 — 창문"
+    },
+    {
+      "scene": 5,
+      "scene_name": "시간",
+      "scene_name_en": "Time",
+      "global_id": "KPE-V10-P023",
+      "image": "vol10_ep04_02_Time2.jpg",
+      "title_en": "Time 2",
+      "title_kr": "시간 2",
+      "caption_short": "Time 2",
+      "alt_text_en": "A figure at a bus stop on a night street beneath a red traffic light",
+      "alt_text_kr": "붉은 신호등 아래 밤거리 버스 정류장 모습",
+      "emotion_tags": "E07 사색",
+      "route_order": 20,
+      "place": "Gongneung Stream / 공릉천",
+      "year": "2023",
+      "lat": 37.6742699,
+      "lng": 126.8824758,
+      "audio": {
+        "file": "KPE_Vol10_Showcase_05_EP04.mp3",
+        "source": "vol10_13.mp3 47.36–63.54초",
+        "seconds": 13.6
+      },
+      "episode_en": "Episode 04 — Time",
+      "episode_kr": "이야기 04 — 시간"
+    }
+  ]
+}
