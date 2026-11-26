@@ -14,23 +14,23 @@
       "scene": 1,
       "scene_name": "서시",
       "scene_name_en": "Prelude",
-      "global_id": "KPE-V17-P004",
-      "image": "vol17_overture_img.jpg",
+      "global_id": "KPE-V17-P011",
+      "image": "vol17_ep01_04_springpond.jpg",
       "title_en": "Prelude",
       "title_kr": "서시",
-      "caption_short": "Overture Image",
-      "alt_text_en": "People at outdoor café tables beside the palace grounds",
-      "alt_text_kr": "궁궐 곁 야외 카페 테이블의 사람들",
-      "emotion_tags": "E07 사색",
-      "route_order": 1,
+      "caption_short": "Spring Pond",
+      "alt_text_en": "A lily-covered pond with azaleas along the bank in spring",
+      "alt_text_kr": "봄, 기슭에 철쭉이 핀 연잎 덮인 연못",
+      "emotion_tags": "E07 사색 · E04 생동",
+      "route_order": 8,
       "place": "Deoksugung Palace / 덕수궁",
       "year": "2024",
       "lat": 37.5658862,
       "lng": 126.9749017,
       "audio": {
         "file": "KPE_Vol17_Showcase_01_Prelude.mp3",
-        "source": "vol17_03.mp3 (전체)",
-        "seconds": 120.9
+        "source": "vol17_03.mp3 (0:00–1:49, 서시 사진 설명 낭독 제외)",
+        "seconds": 109.2
       },
       "transcript": [
         {
@@ -137,16 +137,6 @@
           "lang": "ko",
           "head": false,
           "text": "평범하지만 특별한 얼굴들이 역사 위를 지난다."
-        },
-        {
-          "lang": "en",
-          "head": false,
-          "text": "People at outdoor café tables beside the palace grounds"
-        },
-        {
-          "lang": "ko",
-          "head": false,
-          "text": "궁궐 곁 야외 카페 테이블의 사람들"
         }
       ]
     },
